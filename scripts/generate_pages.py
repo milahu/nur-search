@@ -10,6 +10,9 @@ import logging
 
 ROOT = Path(__file__).parent.parent.resolve()
 
+repo_owner = os.getenv("GITHUB_REPOSITORY_OWNER") or "nix-community"
+nur_repo_name = os.getenv("NUR_REPO_NAME") or "NUR"
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -61,7 +64,7 @@ Name | Attribute | Description
             f.write(f"{name}|{attribute}|{description}\n")
 
 def download_readme():
-    url = "https://raw.githubusercontent.com/nix-community/NUR/master/README.md"
+    url = f"https://raw.githubusercontent.com/{repo_owner}/{nur_repo_name}/master/README.md"
     r = requests.get(url)
     with open("content/documentation/_index.md", 'wb') as f:
         fm = bytes("""

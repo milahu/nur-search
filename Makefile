@@ -6,7 +6,7 @@ all: public
 
 public:
 	git worktree prune
-	git worktree add -B gh-pages public origin/gh-pages
+	git worktree add public gh-pages
 
 publish:
 	git -C public push origin gh-pages

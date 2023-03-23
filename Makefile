@@ -2,6 +2,9 @@ all: public
 	echo generating md files in content/
 	./scripts/generate_pages.py
 	find content/ -type f
+	echo cleaning public/
+	rm -rf rm -rf public/*
+	ls -A public/
 	echo generating html files in public/
 	hugo
 	find public/ -type f

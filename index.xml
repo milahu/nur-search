@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Packages search for NUR</title>
+    <link>/</link>
+    <description>Recent content in Home on Packages search for NUR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/_footer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/_footer/</guid>
+      <description>Powered by the Nix Community | Join NUR on github | Fork this site | Credits</description>
+    </item>
+    
+    <item>
+      <title>0x4A6F</title>
+      <link>/repos/0x4a6f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/0x4a6f/</guid>
+      <description>Packages Name Attribute Description alquitran-unstable-2021-10-03 nur.repos.0x4A6F.alquitran Analysis tool for tar archives autorandr-rs-0.2.0 nur.repos.0x4A6F.autorandr-rs like autorandr, but toml and a daemon blflash-0.3.0 nur.repos.0x4A6F.blflash An bl602 serial flasher written in Rust bouffalo-cli-0.0.2 nur.repos.0x4A6F.bouffalo-cli BL602 Boot ROM utility check_mk-agent-1.6.0p24 nur.repos.0x4A6F.check_mk-agent Agent to send information to a Check_MK server conduit-0.2.0 nur.repos.0x4A6F.conduit A Matrix homeserver written in Rust deploy-rs-unstable-2021-01-02 nur.repos.0x4A6F.deploy-rs A simple multi-profile Nix-flake deploy tool. espflash-0.1.2 nur.repos.0x4A6F.espflash ESP8266 and ESP32 serial flasher firejail-0.9.64.4 nur.repos.0x4A6F.firejail Namespace-based sandboxing tool for Linux freenukum-0.</description>
+    </item>
+    
+    <item>
+      <title>9glenda</title>
+      <link>/repos/9glenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/9glenda/</guid>
+      <description>Packages Name Attribute Description neatroff-0.0.1 nur.repos.9glenda.neatroff xqp-0.1 nur.repos.9glenda.xqp X Query pointer </description>
+    </item>
+    
+    <item>
+      <title>aaqaishtyaq</title>
+      <link>/repos/aaqaishtyaq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/aaqaishtyaq/</guid>
+      <description>Packages Name Attribute Description iay-0.4.0 nur.repos.aaqaishtyaq.iay iay! The minimalistic, blazing-fast, and extendable prompt for bash and zsh. </description>
+    </item>
+    
+    <item>
+      <title>afreakk</title>
+      <link>/repos/afreakk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/afreakk/</guid>
+      <description>Packages Name Attribute Description dcreemer-1pass-1.2 nur.repos.afreakk.dcreemer-1pass dmenu-afreak nur.repos.afreakk.dmenu-afreak dmenuhistory nur.repos.afreakk.dmenuhist fish-history-merger-0.1.0 nur.repos.afreakk.fish-history-merger IRC-Link-Informant-efc351261b130aa2163b6a48f12f4071705de556 nur.repos.afreakk.irc-link-informant mongosh nur.repos.afreakk.mongosh qutebrowser-start-page nur.repos.afreakk.qutebrowser-start-page realm-cli-1.2.0 nur.repos.afreakk.realm-cli MongoDB Realm CLI strongdm nur.repos.afreakk.strongdm tmuxplugin-url-handler-tmux-17380ba2ed513bc4f61ccd517b26aecdbac84fce nur.repos.afreakk.url-handler-tmux wowup nur.repos.afreakk.wowup </description>
+    </item>
+    
+    <item>
+      <title>alarsyo</title>
+      <link>/repos/alarsyo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/alarsyo/</guid>
+      <description>Packages Name Attribute Description grafana-dashboard-nginx-0.9.0 nur.repos.alarsyo.grafanaDashboards.nginx grafana dashboard for NGINX exporter grafana-dashboard-node-exporter-master-7d61c79619e5749e629758ecd96748c010028120 nur.repos.alarsyo.grafanaDashboards.node-exporter grafana dashboard for node exporter kaleidoscope-udev-rules-1.99.3 nur.repos.alarsyo.kaleidoscope-udev-rules udev rules for kaleidoscope firmware keyboards sddm-sugar-candy-2b72ef6c6f720fe0ffde5ea5c7c48152e02f6c4f nur.repos.alarsyo.sddm-sugar-candy spot-2.11.4 nur.repos.alarsyo.spot </description>
+    </item>
+    
+    <item>
+      <title>aleksana</title>
+      <link>/repos/aleksana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/aleksana/</guid>
+      <description>Packages Name Attribute Description fastfetch-1.8.3 nur.repos.aleksana.fastfetch Like neofetch, but much faster because written in C. go-musicfox-3.7.2 nur.repos.aleksana.go-musicfox Yet another netease music client written in Go. gtkcord4-0.0.6 nur.repos.aleksana.gtkcord4 GTK4 Discord client in Go, attempt #4. neovim-gtk-1.0.4 nur.repos.aleksana.neovim-gtk Gtk ui for neovim (Rewritted in gtk4). payload-dumper-go-1.2.2 nur.repos.aleksana.payload-dumper-go An android OTA payload dumper written in Go. speedtest-go-1.3.1 nur.repos.aleksana.speedtest-go CLI and Go API to Test Internet Speed using speedtest.net. swww-0.6.0 nur.repos.aleksana.swww A Solution to your Wayland Wallpaper Woes.</description>
+    </item>
+    
+    <item>
+      <title>alwinb</title>
+      <link>/repos/alwinb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/alwinb/</guid>
+      <description>Packages Name Attribute Description mescc-tools nur.repos.alwinb.mescc-tools opencvJava-4.7.0 nur.repos.alwinb.opencvJava Open Computer Vision Library with more than 500 algorithms sasm-3.12.1 nur.repos.alwinb.sasm Simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages sikulixIDE-2.0.5 nur.repos.alwinb.sikulixIDE Automate what you see on a computer monitor tea-0.8.0 nur.repos.alwinb.tea The official CLI for Gitea </description>
+    </item>
+    
+    <item>
+      <title>ambroisie</title>
+      <link>/repos/ambroisie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/ambroisie/</guid>
+      <description>Packages Name Attribute Description bw-pass-0.1.0 nur.repos.ambroisie.bw-pass A simple script to query a password from bitwarden change-audio-0.3.0 nur.repos.ambroisie.change-audio A script to change the volume and notify about it change-backlight-0.1.0 nur.repos.ambroisie.change-backlight A script to change a screen&amp;rsquo;s brightness and notify about it comma-0.1.0 nur.repos.ambroisie.comma A simple script inspired by Shopify&amp;rsquo;s comma, for modern Nix diff-flake-0.4.0 nur.repos.ambroisie.diff-flake Nix flake helper to visualize changes in closures dragger-0.1.0 nur.repos.ambroisie.dragger A CLI drag-and-drop tool drone-rsync-0.1.0 nur.repos.ambroisie.drone-rsync Helper script to run rsync in a CI pipeline drone-scp-1.</description>
+    </item>
+    
+    <item>
+      <title>amesgen</title>
+      <link>/repos/amesgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/amesgen/</guid>
+      <description>Packages Name Attribute Description cabal-docspec-0.0.0.20211114 nur.repos.amesgen.cabal-docspec Another doctest for Haskell hellsmack-0.1.2.6 nur.repos.amesgen.hellsmack Minecraft stuff hlint-3.5 nur.repos.amesgen.hlint Source code suggestions ormolu-0.5.3.0 nur.repos.amesgen.ormolu A formatter for Haskell source code </description>
+    </item>
+    
+    <item>
+      <title>anthonyroussel</title>
+      <link>/repos/anthonyroussel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/anthonyroussel/</guid>
+      <description>Packages Name Attribute Description aws-cdk-local-2.15.0 nur.repos.anthonyroussel.aws-cdk-local CDK Toolkit for use with LocalStack awscli-local-0.20 nur.repos.anthonyroussel.awscli-local Thin wrapper around the AWS command line interface for use with LocalStack shadow-preprod-8.0.10041 nur.repos.anthonyroussel.shadow-preprod Client for the Shadow Cloud Gaming Computer (preprod) shadow-prod-8.0.10059 nur.repos.anthonyroussel.shadow-prod Client for the Shadow Cloud Gaming Computer (prod) shadow-testing-8.0.10052 nur.repos.anthonyroussel.shadow-testing Client for the Shadow Cloud Gaming Computer (testing) terraform-local-0.6 nur.repos.anthonyroussel.terraform-local Small wrapper script to run Terraform against LocalStack </description>
+    </item>
+    
+    <item>
+      <title>arc</title>
+      <link>/repos/arc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/arc/</guid>
+      <description>Packages Name Attribute Description base16-schemes nur.repos.arc.packages.base16-schemes base16-schemes-source-2021-04-14 nur.repos.arc.packages.base16-schemes-source base16-templates-source-2021-04-14 nur.repos.arc.packages.base16-templates-source benc nur.repos.arc.packages.benc bitlbee-3.6 nur.repos.arc.packages.bitlbee-libpurple IRC instant messaging gateway bolin-bin-2022-08-13 nur.repos.arc.packages.bolin-bin cargo-binutils-0.3.2 nur.repos.arc.packages.cargo-binutils-unwrapped cargo-binutils-wrapper-0.3.2 nur.repos.arc.packages.cargo-binutils cargo-call-stack-0.1.6 nur.repos.arc.packages.cargo-call-stack cargo-download-0.1.2 nur.repos.arc.packages.cargo-download-arc cargo-info-0.7.3 nur.repos.arc.packages.cargo-info cargo-llvm-lines-0.4.9 nur.repos.arc.packages.cargo-llvm-lines cargo-with-0.3.2 nur.repos.arc.packages.cargo-with clip-0.0.1 nur.repos.arc.packages.clip droid-sans-mono-dotted-1.00 nur.repos.arc.packages.droid-sans-mono-dotted droid-sans-mono-slashed-1.00 nur.repos.arc.packages.droid-sans-mono-slashed duc-cli-1.4.5 nur.repos.arc.packages.duc-cli Collection of tools for inspecting and visualizing disk usage EDFbrowser-1.71 nur.repos.arc.packages.edfbrowser electrum-4.3.4 nur.repos.arc.packages.electrum-cli Lightweight Bitcoin wallet emxc nur.repos.arc.packages.emxc filebin nur.repos.arc.packages.filebin forcefully-remove-bootfb-6.1.20-2018-02-08 nur.repos.arc.packages.forcefully-remove-bootfb generate-config.pl nur.repos.arc.packages.generateLinuxConfig getquote-alphavantage-6f426157f700fb7291aa0fd0ff74cc422b5ad9eb nur.repos.arc.packages.getquote-alphavantage gir-0.14-2021-10-08 nur.repos.arc.packages.gir-rs-0_14 Tool to generate rust bindings and user API for glib-based libraries git-annex-remote-b2-2020-02-05-arc nur.</description>
+    </item>
+    
+    <item>
+      <title>arteneko</title>
+      <link>/repos/arteneko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/arteneko/</guid>
+      <description>Packages Name Attribute Description cap-0.3.4 nur.repos.arteneko.cap a simple to use website builder that&amp;rsquo;s meant to be easy to use by default chromium-111.0.5563.64 nur.repos.arteneko.chromium An open source web browser from Google paste-a70e672a nur.repos.arteneko.paste Small temp redis-based pastebin server svg-dev-714c8e8 nur.repos.arteneko.svg a small svg viewer for SVG file creation, with auto-reload vivaldi-5.7.2921.63 nur.repos.arteneko.vivaldi A Browser for our Friends, powerful and personal </description>
+    </item>
+    
+    <item>
+      <title>artturin</title>
+      <link>/repos/artturin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/artturin/</guid>
+      <description>Packages Name Attribute Description koneko-unstable-2021-06-15 nur.repos.artturin.koneko nyaa.si terminal BitTorrent tracker sftpman-gtk-1.0.3 nur.repos.artturin.sftpman-gtk GTK frontend for SftpMan </description>
+    </item>
+    
+    <item>
+      <title>babariviere</title>
+      <link>/repos/babariviere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/babariviere/</guid>
+      <description>Packages Name Attribute Description godot-3.5.1 nur.repos.babariviere.godot Free and Open Source 2D and 3D game engine nerd-font-symbols-2.0.0 nur.repos.babariviere.nerd-font-symbols </description>
+    </item>
+    
+    <item>
+      <title>baduhai</title>
+      <link>/repos/baduhai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/baduhai/</guid>
+      <description>Packages Name Attribute Description chatterino7-7.3.5 nur.repos.baduhai.chatterino7 A chat client for Twitch chat emulationstation-de-1.2.6 nur.repos.baduhai.emulationstation-de A frontend for browsing and launching games from your multi-platform game collection. koi-0.2.3 nur.repos.baduhai.koi Theme scheduling for the KDE Plasma Desktop notesnook-2.4.2 nur.repos.baduhai.notesnook A fully open source &amp;amp; end-to-end encrypted note taking app. </description>
+    </item>
+    
+    <item>
+      <title>bandithedoge</title>
+      <link>/repos/bandithedoge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/bandithedoge/</guid>
+      <description>Packages Name Attribute Description augmented-steam-2.4.1 nur.repos.bandithedoge.firefoxAddons.augmented-steam Augments your Steam Experience auto-tab-discard-0.6.7 nur.repos.bandithedoge.firefoxAddons.auto-tab-discard Increase browser speed and reduce memory load and when you have numerous open tabs. base64-decoder-1.0 nur.repos.bandithedoge.firefoxAddons.base64-decoder select some text, and base64 decode it. betterviewer-1.0.5 nur.repos.bandithedoge.firefoxAddons.betterviewer BetterViewer was designed as a replacement for the image viewing mode built into Firefox and Chrome-based web browsers. With BetterViewer you can use various keyboard shortcuts to quickly pan, zoom images, edit and a lot more!</description>
+    </item>
+    
+    <item>
+      <title>berryp</title>
+      <link>/repos/berryp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/berryp/</guid>
+      <description>Packages Name Attribute Description lmt-251c4b0d82b96f1d0d73f4bf13593b7e235b1d06 nur.repos.berryp.lmt Literate Markdown Tangle obsidian-export-22.11.0 nur.repos.berryp.obsidian-export rancher-desktop-1.7.0 nur.repos.berryp.rancher-desktop Rancher Desktop raycast-1.44.0 nur.repos.berryp.raycast resilio-sync-2.7.3 nur.repos.berryp.resilio-sync Automatically sync files via secure, distributed technology </description>
+    </item>
+    
+    <item>
+      <title>bhipple</title>
+      <link>/repos/bhipple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/bhipple/</guid>
+      <description>Packages Name Attribute Description plaid2qif-1.3.4 nur.repos.bhipple.plaid2qif Download financial transactions from Plaid as QIF files talon-public-latest nur.repos.bhipple.talon </description>
+    </item>
+    
+    <item>
+      <title>blakat360</title>
+      <link>/repos/blakat360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/blakat360/</guid>
+      <description>Packages Name Attribute Description example-package-1.0 nur.repos.blakat360.example-package rzf nur.repos.blakat360.rfz </description>
+    </item>
+    
+    <item>
+      <title>c0deaddict</title>
+      <link>/repos/c0deaddict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/c0deaddict/</guid>
+      <description>Packages Name Attribute Description acme-dns nur.repos.c0deaddict.acme-dns Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely. argo-rollouts-0.10.2 nur.repos.c0deaddict.argo-rollouts Progressive Delivery for Kubernetes bitwarden-rofi-git-2019-11-08 nur.repos.c0deaddict.bitwarden-rofi emacs-i3-0.1.3 nur.repos.c0deaddict.emacs-i3 Emacs i3 unified window management et nur.repos.c0deaddict.enemyterritory Wolfenstein: Enemy Territory etlegacy nur.repos.c0deaddict.etlegacy Open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory fira-code-1.206 nur.repos.c0deaddict.fira-code_206 Monospace font with programming ligatures gcfflasher nur.</description>
+    </item>
+    
+    <item>
+      <title>chisui</title>
+      <link>/repos/chisui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/chisui/</guid>
+      <description>Packages Name Attribute Description redux-devtools-2.17.1 nur.repos.chisui.firefox-addons.redux-devtools DevTools for Redux with actions history, undo and replay. </description>
+    </item>
+    
+    <item>
+      <title>clefru</title>
+      <link>/repos/clefru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/clefru/</guid>
+      <description>Packages Name Attribute Description BeamWallet nur.repos.clefru.beam-wallet Beam Mimblewimble Wallet grin-0.5.2 nur.repos.clefru.grin Grin Mimblewimble node grin-miner-0.5.2 nur.repos.clefru.grin-miner Grin Mimblewimble miner gtk-v4l nur.repos.clefru.gtk-v4l GUI for adjusting settings of V4L devices ib-tws nur.repos.clefru.ib-tws linux-sgx nur.repos.clefru.linux-sgx Intel SGX for Linux minionpro-2.015 nur.repos.clefru.minionpro Myriad and Minion for LaTeX (the not-xeLaTeX way) noise-suppression-for-voice-0.1.1 nur.repos.clefru.noise-suppression-for-voice Noise suppression plugin based on Xiph&amp;rsquo;s RNNoise parsecgaming nur.repos.clefru.parsecgaming Parsec Gaming Daemon python3.10-quantlib-1.21 nur.repos.clefru.quantlib-python3 Python wrappings for QuantLib quantlib-1.21 nur.repos.clefru.quantlib A free/open-source library for quantitative finance rnnoise-0.</description>
+    </item>
+    
+    <item>
+      <title>congee</title>
+      <link>/repos/congee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/congee/</guid>
+      <description>Packages Name Attribute Description cider-1.5.1-beta.30 nur.repos.congee.cider A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. devspace-v5.18.4 nur.repos.congee.devspace The Fastest Developer Tool for Kubernetes. Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes. ibmtss-1.6.0 nur.repos.congee.ibmtss User space TSS for TPM 2.0 by IBM. kim-v0.1.0-beta.7 nur.repos.congee.kim In ur kubernetes, buildin ur imagez mockoon-v1.18.1 nur.repos.congee.mockoon Mockoon is the easiest and quickest way to run mock APIs locally.</description>
+    </item>
+    
+    <item>
+      <title>cransom</title>
+      <link>/repos/cransom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/cransom/</guid>
+      <description>Packages Name Attribute Description plater-8c690c7 nur.repos.cransom.plater </description>
+    </item>
+    
+    <item>
+      <title>crazazy</title>
+      <link>/repos/crazazy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/crazazy/</guid>
+      <description>Packages Name Attribute Description bitwarden-password-manager nur.repos.crazazy.firefox-addons.bitwarden-password-manager A secure and free password manager for all of your devices. create-react-app-5.0.1 nur.repos.crazazy.js.CRA Create React apps with no build configuration. elm-0.19.1 nur.repos.crazazy.elm A delightful language for reliable webapps eslint-8.32.0 nur.repos.crazazy.js.eslint An AST-based pattern checker for JavaScript. feedbroreader nur.repos.crazazy.firefox-addons.feedbroreader Advanced Feed Reader - Read news &amp;amp; blogs or any RSS/Atom/RDF source. graalvm17-ce-22.3.1 nur.repos.crazazy.truffleSqueak High-Performance Polyglot VM guile-hall nur.repos.crazazy.guile-hall jspm-2.0.0-beta.7 nur.repos.crazazy.js.jspm Universal ES Module Package Manager nix-gen-node-tools-1.</description>
+    </item>
+    
+    <item>
+      <title>crtified</title>
+      <link>/repos/crtified/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/crtified/</guid>
+      <description>Packages Name Attribute Description klipper-firmware-unstable-2023-02-20 nur.repos.crtified.klipper-firmware The Klipper 3D printer firmware ldap-sshkp-0.1.0.0 nur.repos.crtified.ldap-sshkp mfbot nur.repos.crtified.mfbot mfcl2710dncupswrapper-4.0.0-1 nur.repos.crtified.mfc_l2710dn Brother MFC-L2710DN CUPS wrapper driver python3.10-aioairctrl-0.2.1-git nur.repos.crtified.python3Packages.aioairctrl library and commandline utilities for controlling philips air purifiers (using encrypted CoAP) self-service-password-1.4.3 nur.repos.crtified.self-service-password unflac-f7506edc9b820a727a18b358c7e42a16399a0958 nur.repos.crtified.unflac A command line tool for fast frame accurate audio image + cue sheet splitting. </description>
+    </item>
+    
+    <item>
+      <title>cwyc</title>
+      <link>/repos/cwyc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/cwyc/</guid>
+      <description>Packages Name Attribute Description calligra-3.2.1 nur.repos.cwyc.calligra My patches to the calligra office suite gtk-typescript-defs nur.repos.cwyc.gtk-typescript-defs A set of typescript definitions for coding with gtk. Built from https://github.com/sammydre/ts-for-gjs openframeworks-v0.11.2 nur.repos.cwyc.openframeworks A toolkit for graphics and computational art. webp-pixbuf-loader-0.0.3 nur.repos.cwyc.webp-pixbuf-loader WebP GDK Pixbuf Loader library </description>
+    </item>
+    
+    <item>
+      <title>dan4ik605743</title>
+      <link>/repos/dan4ik605743/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/dan4ik605743/</guid>
+      <description>Packages Name Attribute Description bitmap-fonts nur.repos.dan4ik605743.bitmap-fonts Bitmap Fonts Collections compton nur.repos.dan4ik605743.compton A compositor for X11 (fork with excellent blur) htop-3.1.0 nur.repos.dan4ik605743.htop-solarized Interactive process viewer with solarized patch i3lock-color-2.12.c.5 nur.repos.dan4ik605743.i3lock-color A simple screen locker like slock, enhanced version with extra configuration options (With patches) sddm-chili nur.repos.dan4ik605743.sddm-chili Theme for SDDM simp1e-cursors-master nur.repos.dan4ik605743.simp1e-cursors An aesthetic cursor theme for your Linux desktop </description>
+    </item>
+    
+    <item>
+      <title>dandellion</title>
+      <link>/repos/dandellion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/dandellion/</guid>
+      <description>Packages Name Attribute Description colors-latest-2018-04-15 nur.repos.dandellion.colors </description>
+    </item>
+    
+    <item>
+      <title>darkkirb</title>
+      <link>/repos/darkkirb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/darkkirb/</guid>
+      <description>Packages Name Attribute Description akkoma-2023-01-02T15-21-19+00-00 nur.repos.darkkirb.akkoma ActivityPub microblogging server alco-sans nur.repos.darkkirb.alco-sans Font by Kreative Software blobfox nur.repos.darkkirb.emoji-volpeon-blobfox Like Blobcat, but with foxes blobfox_flip nur.repos.darkkirb.emoji-volpeon-blobfox-flip Like Blobcat, but with foxes (flipped version) bunhd nur.repos.darkkirb.emoji-volpeon-bunhd High-res version of the bun emojis bunhd_flip nur.repos.darkkirb.emoji-volpeon-bunhd-flip High-res version of the bun emojis (flipped version) caroline-stickers-2022-04-01T14-18-07+02-00 nur.repos.darkkirb.emoji-caro CarolineHusky stickers clean-s3-cache nur.repos.darkkirb.clean-s3-cache Scriept for cleaning a nix s3 binary cache constructium nur.repos.darkkirb.constructium Fork of SIL Gentium with glyph for Constructed Languages drgn nur.</description>
+    </item>
+    
+    <item>
+      <title>dawidsowa</title>
+      <link>/repos/dawidsowa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/dawidsowa/</guid>
+      <description>Packages Name Attribute Description freshrss-1.18.0 nur.repos.dawidsowa.freshrss Self-hosted RSS feed aggregator </description>
+    </item>
+    
+    <item>
+      <title>deeunderscore</title>
+      <link>/repos/deeunderscore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/deeunderscore/</guid>
+      <description>Packages Name Attribute Description coeurl nur.repos.deeunderscore.coeurl A simple async wrapper around CURL for C++ faq-0.0.7 nur.repos.deeunderscore.faq format-agnostic jq git-archive-all-1.23.0 nur.repos.deeunderscore.git-archive-all A wrapper for git-archive which exports git repos together with their submodules input-overlay-5.0.0-rc1 nur.repos.deeunderscore.obs-input-overlay Plugin for showing keyboard, mouse, and gamepad inputs in OBS Studio. jday-2.4 nur.repos.deeunderscore.jday Julian date calculator libuiohook-1.2.2 nur.repos.deeunderscore.libuiohook A C library to provide global keyboard and mouse hooks from userland linx-client-unstable-2020-10-17 nur.repos.deeunderscore.linx-client Client for linx-server moar-pager-1.9.0 nur.</description>
+    </item>
+    
+    <item>
+      <title>demyanrogozhin</title>
+      <link>/repos/demyanrogozhin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/demyanrogozhin/</guid>
+      <description>Packages Name Attribute Description particl-daemon-0.19.99.1.0-g6805257 nur.repos.demyanrogozhin.particl-daemon Privacy Coin &amp;amp; Decentralized Ecosystem particl-qt-0.19.99.1.0-g6805257 nur.repos.demyanrogozhin.particl-qt Privacy Coin &amp;amp; Decentralized Ecosystem </description>
+    </item>
+    
+    <item>
+      <title>devins2518</title>
+      <link>/repos/devins2518/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/devins2518/</guid>
+      <description>Packages Name Attribute Description bunnyfetch-unstable-2022-01-12 nur.repos.devins2518.bunnyfetch-rs Tiny system info fetch utility. gyro nur.repos.devins2518.gyro A Zig package manager iosevka-serif nur.repos.devins2518.iosevka-serif zig-master-unstable-2023-1-1 nur.repos.devins2518.zig-master General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. zigup-unstable-2021-09-26 nur.repos.devins2518.zigup Download and manage zig compilers. zls nur.repos.devins2518.zls Zig LSP implementation + Zig Language Server </description>
+    </item>
+    
+    <item>
+      <title>dezgeg</title>
+      <link>/repos/dezgeg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/dezgeg/</guid>
+      <description>Packages Name Attribute Description buildman.conf nur.repos.dezgeg.buildmanConfig u-boot-dev-shell nur.repos.dezgeg.ubootDevShell </description>
+    </item>
+    
+    <item>
+      <title>dmayle</title>
+      <link>/repos/dmayle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/dmayle/</guid>
+      <description>Packages Name Attribute Description example-package-1.0 nur.repos.dmayle.example-package tbsm-v0.5 nur.repos.dmayle.tbsm TUI display manager </description>
+    </item>
+    
+    <item>
+      <title>drewrisinger</title>
+      <link>/repos/drewrisinger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/drewrisinger/</guid>
+      <description>Packages Name Attribute Description argonone-rpi4-unstable-2020-09-14 nur.repos.drewrisinger.raspberryPi.argonone-rpi4 Argon One Service and Control Scripts for Raspberry Pi 4 pigpio-78 nur.repos.drewrisinger.raspberryPi.pigpio-c A C library for the Raspberry Pi which allows control of the General Purpose Input Outputs (GPIO) python3.10-algopy-0.5.7 nur.repos.drewrisinger.python3Packages.algopy Research Prototype for Algorithmic Differentation in Python python3.10-asteval-0.9.26 nur.repos.drewrisinger.python3Packages.asteval Minimalistic evaluator of python expressions using ast module python3.10-autoray-0.3.1 nur.repos.drewrisinger.python3Packages.autoray Write numeric code that automatically works with any numpy-ish libraries python3.10-cirq-0.14.1 nur.repos.drewrisinger.python3Packages.cirq A framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.</description>
+    </item>
+    
+    <item>
+      <title>dschrempf</title>
+      <link>/repos/dschrempf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/dschrempf/</guid>
+      <description>Packages Name Attribute Description beast-sars-cov-2-origins nur.repos.dschrempf.beast Program for Bayesian analysis of molecular sequences using MCMC beast2-2.6.7 nur.repos.dschrempf.beast2 Bayesian evolutionary analysis by sampling trees figtree-1.4.4 nur.repos.dschrempf.figtree Graphical viewer of phylogenetic trees frida-tools-10.6.2 nur.repos.dschrempf.frida-tools Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers (client tools) iaito-5.7.0-dev nur.repos.dschrempf.iaito iqtree2-2.2.2.2 nur.repos.dschrempf.iqtree2 Efficient and versatile phylogenomic software by maximum likelihood jugglinglab-1.4.1 nur.repos.dschrempf.jugglinglab A program to visualize different juggling pattens paml-4.9j nur.repos.dschrempf.paml Phylogenetic analysis with maximum likelihood phylobayes-4.</description>
+    </item>
+    
+    <item>
+      <title>dtn7</title>
+      <link>/repos/dtn7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/dtn7/</guid>
+      <description>Packages Name Attribute Description dtn7-go-0.9.1 nur.repos.dtn7.dtn7-go Delay-tolerant networking software suite, Bundle Protocol Version 7 dtn7-go-unstable-2023-02-25 nur.repos.dtn7.dtn7-go-unstable Delay-tolerant networking software suite, Bundle Protocol Version 7 dtn7-rs-0.17.3 nur.repos.dtn7.dtn7-rs Rust implementation of a DTN based on RFC9171 </description>
+    </item>
+    
+    <item>
+      <title>dukzcry</title>
+      <link>/repos/dukzcry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/dukzcry/</guid>
+      <description>Packages Name Attribute Description 86box-3.11 nur.repos.dukzcry._86box Emulator of x86-based machines based on PCem aml-upgrade-package-extract-2019-09-24 nur.repos.dukzcry.aml-upgrade-package-extract Amlogic Burn Card Maker alternative for Linux ath10k-firmware-20220411 nur.repos.dukzcry.ath10k-firmware ath10k firmware bitwig-studio-3.1.3 nur.repos.dukzcry.bitwig-studio3 A digital audio workstation cockpit-280 nur.repos.dukzcry.cockpit Web-based graphical interface for servers cockpit-280 nur.repos.dukzcry.cockpit-client Web-based graphical interface for servers cockpit-machines-279 nur.repos.dukzcry.cockpit-machines Cockpit UI for virtual machines edgevpn-0.19.0 nur.repos.dukzcry.edgevpn The immutable, decentralized, statically built VPN without any central server gitupdate nur.repos.dukzcry.gitupdate gtk3-nocsd-2016-07-17 nur.repos.dukzcry.gtk3-nocsd A hack to disable gtk+ 3 client side decoration homer-22.</description>
+    </item>
+    
+    <item>
+      <title>dustinblackman</title>
+      <link>/repos/dustinblackman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/dustinblackman/</guid>
+      <description>Packages Name Attribute Description cf-alias nur.repos.dustinblackman.cf-alias fetch-hls nur.repos.dustinblackman.fetch-hls gomodrun nur.repos.dustinblackman.gomodrun languagetool-code-comments nur.repos.dustinblackman.languagetool-code-comments </description>
+    </item>
+    
+    <item>
+      <title>eeva</title>
+      <link>/repos/eeva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/eeva/</guid>
+      <description>Packages Name Attribute Description vim nur.repos.eeva.vim </description>
+    </item>
+    
+    <item>
+      <title>eh5</title>
+      <link>/repos/eh5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/eh5/</guid>
+      <description>Packages Name Attribute Description dovecot-fts-flatcurve-0.3.2 nur.repos.eh5.dovecot-fts-flatcurve Dovecot FTS Flatcurve plugin (Xapian) fake-hwclock nur.repos.eh5.fake-hwclock Fake hardware clock hev-socks5-tproxy-2.4.0 nur.repos.eh5.hev-socks5-tproxy A simple, lightweight socks5 transparent proxy for Linux. (IPv4/IPv6/TCP/UDP) libnftnl-1.2.4 nur.repos.eh5.libnftnl-fullcone A userspace library providing a low-level netlink API to the in-kernel nf_tables subsystem (with fullcone support) mosdns-v5.1.2 nur.repos.eh5.mosdns A DNS proxy server netease-cloud-music-1.2.0 nur.repos.eh5.netease-cloud-music Netease cloud music player. nft-fullcone nur.repos.eh5.nft-fullcone nftables fullcone expression kernel module nftables-1.0.5 nur.repos.eh5.nftables-fullcone The project that aims to replace the existing {ip,ip6,arp,eb}tables framework (with fullcone support) nix-gfx-mesa nur.</description>
+    </item>
+    
+    <item>
+      <title>ethancedwards8</title>
+      <link>/repos/ethancedwards8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/ethancedwards8/</guid>
+      <description>Packages Name Attribute Description dmenu-5.2 nur.repos.ethancedwards8.dmenu A generic, highly customizable, and efficient menu for the X Window System enhancer-for-youtube-2.0.104.12 nur.repos.ethancedwards8.firefox-addons.enhancer-for-youtube Take control of YouTube and boost your user experience! nextcloud-passwords-2.1.2 nur.repos.ethancedwards8.firefox-addons.nextcloud-passwords The official browser extension for the Passwords app for Nextcloud. nixpkgs-firefox-addons-0.8.1 nur.repos.ethancedwards8.firefox-addons-generator Tool generating a Nix package set of Firefox addons sponsorblock-2.0.16.2 nur.repos.ethancedwards8.firefox-addons.sponsorblock Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors.</description>
+    </item>
+    
+    <item>
+      <title>etu</title>
+      <link>/repos/etu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/etu/</guid>
+      <description>Packages Name Attribute Description chalet-0.10.2 nur.repos.etu.chalet Start apps from your browser etuvetica-1 nur.repos.etu.font-etuvetica etu&amp;rsquo;s terrible font g90updatefw-1.5 nur.repos.etu.g90updatefw Xiegu G90 and Xiego G106 Firmware Updater github-markdown-toc-0.8.0 nur.repos.etu.github-markdown-toc gh-md-toc: Easy TOC creation for GitHub README.md llr-0.9.0 nur.repos.etu.llr llr reads text and truncates it to the terminal width mkvcleaner-1.0.0 nur.repos.etu.mkvcleaner bulk-remux mkv-files from tracks of unwanted languages php-debug-1.32.0 nur.repos.etu.vscode-php-debug PHP Debug Adapter Protocol talyznewroman-1 nur.repos.etu.font-talyznewroman talyz&amp;rsquo;s terrible font </description>
+    </item>
+    
+    <item>
+      <title>federicoschonborn</title>
+      <link>/repos/federicoschonborn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/federicoschonborn/</guid>
+      <description>Packages Name Attribute Description bsdutils-13.1 nur.repos.federicoschonborn.bsdutils Alternative to GNU coreutils using software from FreeBSD cargo-aoc-0.3.3 nur.repos.federicoschonborn.cargo-aoc Cargo Advent of Code Helper commit-3.3.0 nur.repos.federicoschonborn.commit Commit message editor devtoolbox-1.0.2 nur.repos.federicoschonborn.devtoolbox Development tools at your fingertips fastfetch-1.10.3 nur.repos.federicoschonborn.fastfetch Like neofetch, but much faster because written in C fastfetch-1.10.3 nur.repos.federicoschonborn.fastfetchFull Like neofetch, but much faster because written in C gitklient-unstable-2023-02-09 nur.repos.federicoschonborn.gitklient Graphical Git client for KDE libxo-1.6.0 nur.repos.federicoschonborn.libxo Library for emitting text, XML, JSON, or HTML output liquidshell-1.</description>
+    </item>
+    
+    <item>
+      <title>fedx</title>
+      <link>/repos/fedx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/fedx/</guid>
+      <description>Packages Name Attribute Description cockpit-270 nur.repos.fedx.cockpit Web-based graphical interface for servers cockpit-machines-269 nur.repos.fedx.cockpit-machines Cockpit UI for virtual machines cockpit-podman-48 nur.repos.fedx.cockpit-podman Cockpit UI for virtual machines libvirt-dbus-1.4.1 nur.repos.fedx.libvirt-dbus DBus protocol binding for libvirt native C API linux-5.17.11 nur.repos.fedx.linux_sbos Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. searxng-1.0.0-searxng-alpha-202206022146 nur.repos.fedx.searxng A privacy-respecting, hackable metasearch engine </description>
+    </item>
+    
+    <item>
+      <title>fendse</title>
+      <link>/repos/fendse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/fendse/</guid>
+      <description>Packages Name Attribute Description i3-icons-4.18.3 nur.repos.fendse.i3-wm-iconpatch A tiling window manager with titlebar icons unreal_world-3.62 nur.repos.fendse.unreal-world Survival based roguelike game </description>
+    </item>
+    
+    <item>
+      <title>fgaz</title>
+      <link>/repos/fgaz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/fgaz/</guid>
+      <description>Packages Name Attribute Description enter-the-gungeon-2_1_9_33951 nur.repos.fgaz.enter-the-gungeon-gog gnubiff-2.2.17 nur.repos.fgaz.gnubiff ly nur.repos.fgaz.ly openhexagon-1.92b nur.repos.fgaz.openhexagon openhexagon-1.92b nur.repos.fgaz.openhexagon-with-all-extra-packs powermanga-0.93.1 nur.repos.fgaz.powermanga slicer-4.8.1 nur.repos.fgaz.slicer variety-0.6.6 nur.repos.fgaz.variety </description>
+    </item>
+    
+    <item>
+      <title>fius</title>
+      <link>/repos/fius/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/fius/</guid>
+      <description>Packages Name Attribute Description drinklist-cli nur.repos.fius.drinklist-cli A CLI for the FIUS drinklsit </description>
+    </item>
+    
+    <item>
+      <title>fliegendewurst</title>
+      <link>/repos/fliegendewurst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/fliegendewurst/</guid>
+      <description>Packages Name Attribute Description diskgraph-2021-05-13 nur.repos.fliegendewurst.diskgraph Graphs the disk IO in a linux terminal freqtop-2022-02-01 nur.repos.fliegendewurst.freqtop Monitor for the CPU Frequency Scaling under Linux map-2020-06-30 nur.repos.fliegendewurst.map Map lines from stdin to commands q-0.6.0 nur.repos.fliegendewurst.q Tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH raspi-oled-armv6l-unknown-linux-musleabihf-unstable-infdev-2 nur.repos.fliegendewurst.raspi-oled-cross OLED display of clock/calendar/temperature raspi-oled-unstable-infdev-2 nur.repos.fliegendewurst.raspi-oled OLED display of clock/calendar/temperature ripgrep-all-0.9.7-infdev nur.repos.fliegendewurst.ripgrep-all Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.</description>
+    </item>
+    
+    <item>
+      <title>foolnotion</title>
+      <link>/repos/foolnotion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/foolnotion/</guid>
+      <description>Packages Name Attribute Description aria-csv-git nur.repos.foolnotion.aria-csv Fast, header-only, C++11 CSV parser. asmjit-git nur.repos.foolnotion.asmjit AsmJit is a lightweight library for machine code generation written in C++ language. autodiff-v0.6.12 nur.repos.foolnotion.autodiff C++17 library that uses modern and advanced programming techniques to enable automatic computation of derivatives in an efficient, easy, and intuitive way. berserk-10 nur.repos.foolnotion.berserk Strong open source UCI chess engine written in C cpp-lazy-7.0.2 nur.repos.foolnotion.cpp-lazy A fast C++11/14/17/20 header only library for lazy evaluation and function tools cppitertools-2.</description>
+    </item>
+    
+    <item>
+      <title>friedow</title>
+      <link>/repos/friedow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/friedow/</guid>
+      <description>Packages Name Attribute Description rofi-lpass nur.repos.friedow.rofi-lpass Lastpass integration with Rofi </description>
+    </item>
+    
+    <item>
+      <title>geonix</title>
+      <link>/repos/geonix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/geonix/</guid>
+      <description>Packages Name Attribute Description gdal-3.6.0.1 nur.repos.geonix.gdal Translator library for raster geospatial data formats geos-3.11.1 nur.repos.geonix.geos C++ port of the Java Topology Suite (JTS) libgeotiff-1.7.1 nur.repos.geonix.libgeotiff Library implementing attempt to create a tiff based interchange format for georeferenced raster imagery libspatialindex-1.9.3 nur.repos.geonix.libspatialindex Extensible spatial index library in C++ libspatialite-5.0.1 nur.repos.geonix.libspatialite Extensible spatial index library in C++ pdal-2.4.3 nur.repos.geonix.pdal PDAL is Point Data Abstraction Library. GDAL for point cloud data proj-9.1.1 nur.repos.geonix.proj Cartographic Projections Library python3.</description>
+    </item>
+    
+    <item>
+      <title>grafcube</title>
+      <link>/repos/grafcube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/grafcube/</guid>
+      <description>Packages Name Attribute Description antidot-0.6.3 nur.repos.grafcube.antidot Cleans up your $HOME from those pesky dotfiles doasedit-1.0.1 nur.repos.grafcube.doasedit Shellscript to edit files that are not in a user-writable location lora-cyrillic-3.003 nur.repos.grafcube.lora-cyrillic Contemporary serif font that supports Latin and Cyrillic scripts. Includes OTF, TTF and variable. </description>
+    </item>
+    
+    <item>
+      <title>graham33</title>
+      <link>/repos/graham33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/graham33/</guid>
+      <description>Packages Name Attribute Description homeassistant-2023.3.5 nur.repos.graham33.home-assistant Open source home automation that puts local control and privacy first homeassistant-2023.3.5 nur.repos.graham33.homeassistant Open source home automation that puts local control and privacy first nix-build-uncached-1.1.1 nur.repos.graham33.nix-build-uncached A CI friendly wrapper around nix-build python3.10-ha-dyson-0.16.4-4 nur.repos.graham33.ha-dyson HomeAssistant custom integration for Dyson python3.10-ha-dyson-cloud-0.15.0 nur.repos.graham33.ha-dyson-cloud Cloud integration for ha-dyson python3.10-ha-hildebrandglow-dcc-0.6.0 nur.repos.graham33.ha-hildebrandglow-dcc HomeAssistant custom integration for Hildebrand Glow python3.10-hass-smartbox-2.0.0-beta.1 nur.repos.graham33.hass-smartbox Home Assistant integration for heating smartboxes. python3.10-hassio-ecoflow-2.2.3 nur.repos.graham33.hassio-ecoflow EcoFlow Portable Power Station Integration for Home Assistant python3.</description>
+    </item>
+    
+    <item>
+      <title>gricad</title>
+      <link>/repos/gricad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/gricad/</guid>
+      <description>Packages Name Attribute Description beagle-3.1.2 nur.repos.gricad.beagle high-performance library that can perform the core calculations at the heart of most Bayesian and Maximum Likelihood phylogenetics packages fate nur.repos.gricad.fate gdl nur.repos.gricad.gdl A free and open-source IDL/PV-WAVE compiler gerris-131206 nur.repos.gricad.gerris gts-121130 nur.repos.gricad.gts121130 GNU Triangulated Surface Library hello-2.10 nur.repos.gricad.hello A program that produces a familiar, friendly greeting hp2p-3.3 nur.repos.gricad.hp2p-intel a MPI based benchmark for network diagnostic hp2p-3.4 nur.repos.gricad.hp2p a MPI based benchmark for network diagnostic hpdbscan-1.</description>
+    </item>
+    
+    <item>
+      <title>heph2</title>
+      <link>/repos/heph2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/heph2/</guid>
+      <description>Packages Name Attribute Description google-cloud-sdk-auth-plugin-403.0.0 nur.repos.heph2.google-cloud-sdk-auth-plugin Google Cloud SDK Auth Plugin logisim-evolution-3.6.0 nur.repos.heph2.logisim-evolution Educational tool for designing and simulating digital logic circuits ndpi-rev-8b2c9860be8b0663bfe9fc3b6defc041bb90e5b2 nur.repos.heph2.ndpi-dev A library for deep-packet inspection ndpid-1.5 nur.repos.heph2.ndpid An nDPI daemon perl5.36.0-ariel-dl-0.1 nur.repos.heph2.ariel-dl perl5.36.0-Atlas-0.1 nur.repos.heph2.atlas python3.10-keystone-0.9.2 nur.repos.heph2.python3Packages.keystone Lightweight multi-platform, multi-architecture assembler framework python3.10-locustio-2.14.1 nur.repos.heph2.python3Packages.locustio A load testing tool python3.10-roundrobin-0.0.4 nur.repos.heph2.python3Packages.roundrobin This is rather small collection of round robin utilites telescope-0.7.1 nur.repos.heph2.telescope Telescope is a w3m-like browser for Gemini </description>
+    </item>
+    
+    <item>
+      <title>hujw77</title>
+      <link>/repos/hujw77/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/hujw77/</guid>
+      <description>Packages Name Attribute Description colorize_lines-4.0 nur.repos.hujw77.colorize_lines colors the channel text with nick color and also highlight the whole line colorize_nicks.py script will be supported drml-debug-bsc nur.repos.hujw77.drml Darwinia Runtime Pallet Library and Pangolin/Pangoro Testnet hello-2.10 nur.repos.hujw77.hello-nur A program that produces a familiar, friendly greeting </description>
+    </item>
+    
+    <item>
+      <title>hutzdog</title>
+      <link>/repos/hutzdog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/hutzdog/</guid>
+      <description>Packages Name Attribute Description build.sh-1.0.0 nur.repos.hutzdog.build-sh A &amp;lt;100 line pure Bash build system. carapace-bin-0.12.1 nur.repos.hutzdog.carapace-bin Multi-shell multi-command argument completer lmt-3-8-2021 nur.repos.hutzdog.lmt A literate programming tool for Markdown </description>
+    </item>
+    
+    <item>
+      <title>iagocq</title>
+      <link>/repos/iagocq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/iagocq/</guid>
+      <description>Packages Name Attribute Description lightspeed-react-20210221-08c2894b5a3059d24c664aefe6256c88f0f15038 nur.repos.iagocq.lightspeed-react lightspeed-webrtc-20210504-a3d0d97fa9bd2f0d2eb7ca1745b6212b75959a12 nur.repos.iagocq.lightspeed-webrtc parprouted-0.7 nur.repos.iagocq.parprouted Daemon for transparent IP proxy ARP bridging parsec-150-78 nur.repos.iagocq.parsec Simple, low-latency game streaming. pptpd-1.4.0 nur.repos.iagocq.pptpd The PPTP Server for Linux (with bcrelay) rust_lightspeed-ingest-0.1.0 nur.repos.iagocq.lightspeed-ingest telegram-send-0.25 nur.repos.iagocq.telegram-send truckersmp-cli-0.7.2 nur.repos.iagocq.truckersmp-cli ultimmc-0.6.14-custom nur.repos.iagocq.ultimmc Cracked version of a popular Minecraft launcher </description>
+    </item>
+    
+    <item>
+      <title>ifd3f</title>
+      <link>/repos/ifd3f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/ifd3f/</guid>
+      <description>Packages Name Attribute Description akkoma-bin-2022.08 nur.repos.ifd3f.akkoma-bin Akkoma pleroma-ebooks-94949289f07e7f915f640b71179b193356fc1d5b nur.repos.ifd3f.pleroma-ebooks pleroma-ebooks </description>
+    </item>
+    
+    <item>
+      <title>ilya-fedin</title>
+      <link>/repos/ilya-fedin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/ilya-fedin/</guid>
+      <description>Packages Name Attribute Description ayatana-indicator-keyboard-22.2.2 nur.repos.ilya-fedin.ayatana-indicator-keyboard Ayatana Indicator Keyboard Applet ayatana-indicator-power-22.2.0 nur.repos.ilya-fedin.ayatana-indicator-power Ayatana Indicator Power Applet cascadia-code-powerline nur.repos.ilya-fedin.cascadia-code-powerline cmake-extras-1.6 nur.repos.ilya-fedin.cmake-extras A collection of add-ons for the CMake build tool. exo2-unstable-2021-11-11 nur.repos.ilya-fedin.exo2 Exo 2 is a complete redrawing of Exo gtk-layer-background-unstable-2022-04-01 nur.repos.ilya-fedin.gtk-layer-background Simple wayland desktop background hplip-3.22.6 nur.repos.ilya-fedin.hplipWithPlugin Print, scan and fax HP drivers for Linux kotatogram-desktop-1.4.9 nur.repos.ilya-fedin.kotatogram-desktop Kotatogram – experimental Telegram Desktop fork kotatogram-desktop-with-webkit-1.4.9 nur.repos.ilya-fedin.kotatogram-desktop-with-webkit Kotatogram – experimental Telegram Desktop fork libayatana-common-0.</description>
+    </item>
+    
+    <item>
+      <title>imsofi</title>
+      <link>/repos/imsofi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/imsofi/</guid>
+      <description>Packages Name Attribute Description canaille-0.0.9 nur.repos.imsofi.canaille Simplistic OpenID Connect provider over OpenLDAP ferium-4.1.7 nur.repos.imsofi.ferium A CLI minecraft mod manager packwiz-2022-06-05 nur.repos.imsofi.packwiz A command line tool for editing and distributing Minecraft modpacks python3.10-authlib-1.0.1 nur.repos.imsofi.extraPython3Packages.authlib1 The ultimate Python library in building OAuth and OpenID Connect servers. JWS,JWE,JWK,JWA,JWT included. python3.10-flask-themer-1.4.3 nur.repos.imsofi.extraPython3Packages.flask-themer Simple theming support for Flask apps. python3.10-flask-webtest-0.0.9 nur.repos.imsofi.extraPython3Packages.flask-webtest Utilities for testing Flask applications with WebTest python3.10-slapd-0.1.2 nur.repos.imsofi.extraPython3Packages.slapd Controls a slapd process in a pythonic way python3.</description>
+    </item>
+    
+    <item>
+      <title>infinitivewitch</title>
+      <link>/repos/infinitivewitch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/infinitivewitch/</guid>
+      <description>Packages Name Attribute Description chromebook-audio nur.repos.infinitivewitch.chromebook-audio Audio scripts for Eupnea written in python </description>
+    </item>
+    
+    <item>
+      <title>INFO4-19</title>
+      <link>/repos/info4-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/info4-19/</guid>
+      <description>Packages Name Attribute Description ALM1 nur.repos.INFO4-19.ALM1 example-package-1.0 nur.repos.INFO4-19.example-package hello-2.1.1 nur.repos.INFO4-19.helloworld PF-LT nur.repos.INFO4-19.PF-LT PS nur.repos.INFO4-19.PS TS nur.repos.INFO4-19.TS </description>
+    </item>
+    
+    <item>
+      <title>instantos</title>
+      <link>/repos/instantos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/instantos/</guid>
+      <description>Packages Name Attribute Description argtable-3.1.5.1c1bb23 nur.repos.instantos.argtable3 A Cross-Platform, Single-File, ANSI C Command-Line Parsing Library disper-0.3.1.1 nur.repos.instantos.disper On-the-fly display switch utility gufw-20.04.1 nur.repos.instantos.gufw Graphical user interface for Ubuntu&amp;rsquo;s Uncomplicated Firewall imenu-unstable nur.repos.instantos.imenu instantOS imenu instantAssist-unstable nur.repos.instantos.instantassist Handy menu to access lots of features of instantOS instantConf-unstable nur.repos.instantos.instantconf instantOS Conf instantData-unstable nur.repos.instantos.instantdata instantOS Data instantDotfiles-unstable nur.repos.instantos.instantdotfiles instantOS dotfiles instantLock-unstable nur.repos.instantos.instantlock Screen lock manager of instantOS. instantLogo-unstable nur.repos.instantos.instantlogo Logo assets of instantOS. instantMenu-unstable nur.</description>
+    </item>
+    
+    <item>
+      <title>ivar</title>
+      <link>/repos/ivar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/ivar/</guid>
+      <description>Packages Name Attribute Description ryujinx-1.0.7082 nur.repos.ivar.ryujinx Experimental Nintendo Switch Emulator written in C# yuzu-ea-2149 nur.repos.ivar.yuzu-ea The early-access branch of an experimental Nintendo Switch emulator written in C++ yuzu-mainline-787 nur.repos.ivar.yuzu-mainline The mainline branch of an experimental Nintendo Switch emulator written in C++ </description>
+    </item>
+    
+    <item>
+      <title>izorkin</title>
+      <link>/repos/izorkin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/izorkin/</guid>
+      <description>Packages Name Attribute Description bison-2.7.1 nur.repos.izorkin.bison2 Yacc-compatible parser generator curl-7.88.1 nur.repos.izorkin.curl A command line tool for transferring files with URL syntax fail2ban-1.0.2 nur.repos.izorkin.fail2ban A program that scans log files for repeated failing login attempts and bans IP addresses jemalloc-4.5.0 nur.repos.izorkin.jemalloc450 General purpose malloc(3) implementation libcouchbase-2.10.4 nur.repos.izorkin.libcouchbase_2_10_4 C client library for Couchbase libssh2-1.10.0 nur.repos.izorkin.libssh2 A client-side C library implementing the SSH2 protocol mariadb-galera-25.3.37 nur.repos.izorkin.mariadb-galera_25 Galera 3 wsrep provider library mariadb-galera-26.4.13 nur.repos.izorkin.mariadb-galera_26 Galera 3 wsrep provider library mariadb-server-10.</description>
+    </item>
+    
+    <item>
+      <title>j-k</title>
+      <link>/repos/j-k/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/j-k/</guid>
+      <description>Packages Name Attribute Description bane-0.4.4 nur.repos.j-k.bane Custom &amp;amp; better AppArmor profile generator for Docker containers conform-0.1.0-alpha.25 nur.repos.j-k.conform Policy enforcement for your pipelines container-diff-0.17.0 nur.repos.j-k.container-diff Diff your Docker containers kdigger-2022-01-19-unstable nur.repos.j-k.kdigger A context discovery tool for Kubernetes penetration testing kubernetes-bom-0.2.2 nur.repos.j-k.kubernetes-bom A utility to generate SPDX compliant Bill of Materials manifests nerdfonts-2.3.3 nur.repos.j-k.hasklig-nerdfont Iconic font aggregator, collection, &amp;amp; patcher. 3,600+ icons, 50+ patched fonts tuftool-0.6.4 nur.repos.j-k.tuftool A Rust command-line utility for generating and signing TUF repositories </description>
+    </item>
+    
+    <item>
+      <title>jakobrs</title>
+      <link>/repos/jakobrs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/jakobrs/</guid>
+      <description>Packages Name Attribute Description avizo-unstable-2020-11-27 nur.repos.jakobrs.avizo bobrossquotes-1.0 nur.repos.jakobrs.bobrossquotes A bunch of quotes from Bob Ross bsnes-unstable-2021-03-13 nur.repos.jakobrs.bsnes cpptoml-0.1.1 nur.repos.jakobrs.cpptoml cpptoml is a header-only library for parsing TOML joycond-unstable-2021-03-06 nur.repos.jakobrs.joycond Userspace daemon to combine joy-cons from the hid-nintendo kernel driver libdecor-0.1.0 nur.repos.jakobrs.libdecor A client-side decorations library for Wayland client libtas-1.4.2 nur.repos.jakobrs.libtasMulti GNU/Linux software to (hopefully) give TAS tools to native games libtas-1.4.2 nur.repos.jakobrs.libtasNoMulti GNU/Linux software to (hopefully) give TAS tools to native games libtas-1.</description>
+    </item>
+    
+    <item>
+      <title>jjjollyjim</title>
+      <link>/repos/jjjollyjim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/jjjollyjim/</guid>
+      <description>Packages Name Attribute Description exploitdb nur.repos.jjjollyjim.exploitdb exploitdb nur.repos.jjjollyjim.exploitdbFull </description>
+    </item>
+    
+    <item>
+      <title>jo1gi</title>
+      <link>/repos/jo1gi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/jo1gi/</guid>
+      <description>Packages Name Attribute Description AAXtoMP3 nur.repos.jo1gi.AAXtoMP3 Convert Audible&amp;rsquo;s .aax filetype to MP3, FLAC, M4A, or OPUS audible-cli-0.2.4 nur.repos.jo1gi.audible-cli A command line interface for audible package. With the cli you can download your Audible books, cover, chapter files. </description>
+    </item>
+    
+    <item>
+      <title>jomik</title>
+      <link>/repos/jomik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/jomik/</guid>
+      <description>Packages Name Attribute Description android-sdk-platform-23_r03 nur.repos.jomik.androidsdk.platform23 android-sdk-platform-24_r02 nur.repos.jomik.androidsdk.platform24 android-sdk-platform-25_r03 nur.repos.jomik.androidsdk.platform25 android-sdk-platform-26_r02 nur.repos.jomik.androidsdk.platform26 android-sdk-platform-27_r03 nur.repos.jomik.androidsdk.platform27 android-sdk-platform-28_r06 nur.repos.jomik.androidsdk.platform28 android-sdk-platform-tools-r28.0.1 nur.repos.jomik.androidsdk.platformTools android-sdk-tools-r26.1.1 nur.repos.jomik.androidsdk.tools csd-post-20181217 nur.repos.jomik.csd-post dotfiles-sh-20181024 nur.repos.jomik.dotfiles-sh Dotfiles made easy fish-plugin-fish-fasd-2019-04-12 nur.repos.jomik.fishPlugins.fish-fasd fish-plugin-fish-fasd-2019-04-12 nur.repos.jomik.fishPlugins.fasd fish-plugin-fish-theme-eden-2018-09-10 nur.repos.jomik.fishPlugins.fish-theme-eden fish-plugin-fish-theme-eden-2018-09-10 nur.repos.jomik.fishPlugins.theme-eden fish-plugin-pure-2019-04-11 nur.repos.jomik.fishPlugins.pure fish-plugin-pure-2019-04-11 nur.repos.jomik.fishPlugins.theme-pure fish-plugin-spacefish-2019-03-11 nur.repos.jomik.fishPlugins.spacefish fish-plugin-spacefish-2019-03-11 nur.repos.jomik.fishPlugins.theme-spacefish fish-plugin-thefuck-3.32 nur.repos.jomik.fishPlugins.thefuck fish-plugin-theme-bobthefish-2019-03-29 nur.repos.jomik.fishPlugins.theme-bobthefish screepsconsole-0.10.1 nur.repos.jomik.screepsconsole slock nur.repos.jomik.slock </description>
+    </item>
+    
+    <item>
+      <title>k3a</title>
+      <link>/repos/k3a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/k3a/</guid>
+      <description>Packages Name Attribute Description ib-tws-10.21.1r nur.repos.k3a.ib-tws Trader Work Station of Interactive Brokers steghide-0.5.1 nur.repos.k3a.steghide Embeds a message in a file by replacing some of the least significant bits </description>
+    </item>
+    
+    <item>
+      <title>kalbasit</title>
+      <link>/repos/kalbasit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/kalbasit/</guid>
+      <description>Packages Name Attribute Description chroot-enter-0.0.1 nur.repos.kalbasit.chroot-enter corgi-v0.2.3 nur.repos.kalbasit.corgi CLI workflow manager download-archiver-0.0.1 nur.repos.kalbasit.download-archiver gocode-unstable-2018-10-22 nur.repos.kalbasit.gocode An autocompletion daemon for the Go programming language gpg-clean-up-0.0.1 nur.repos.kalbasit.gpg-clean-up lscolors-unstable-2021-07-27 nur.repos.kalbasit.ls-colors A collection of LS_COLORS definitions; needs your contribution! nix-verify nur.repos.kalbasit.nix-verify nixify nur.repos.kalbasit.nixify rbrowser nur.repos.kalbasit.rbrowser shrinkpdf-0.0.1 nur.repos.kalbasit.shrinkpdf shrink PDF files with Ghostscript swm-0.4.0-alpha5 nur.repos.kalbasit.swm swm (Story-based Workflow Manager) is a Tmux session manager specifically designed for Story-based development workflow </description>
+    </item>
+    
+    <item>
+      <title>kampka</title>
+      <link>/repos/kampka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/kampka/</guid>
+      <description>Packages Name Attribute Description nix-search nur.repos.kampka.nix-search Command line util for accelerated package search in nix environments nixify nur.repos.kampka.nixify Bootstrap nix-shell environments </description>
+    </item>
+    
+    <item>
+      <title>kapack</title>
+      <link>/repos/kapack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/kapack/</guid>
+      <description>Packages Name Attribute Description batexpe-1.2.0 nur.repos.kapack.batexpe set of Go tools around Batsim to simplify experiments batprotocol-cpp-baff452b365d471fc7316e1f5ab5ed6a9b5de460 nur.repos.kapack.batprotocol-cpp C++ library to serialize messages in the batprotocol batsched-1.3.0 nur.repos.kapack.batsched-130 Batsim C++ scheduling algorithms. batsched-1.4.0 nur.repos.kapack.batsched Batsim C++ scheduling algorithms. batsim-3.1.0 nur.repos.kapack.batsim-310 An infrastructure simulator that focuses on resource management techniques. batsim-4.0.0 nur.repos.kapack.batsim-400 An infrastructure simulator that focuses on resource management techniques. batsim-4.1.0 nur.repos.kapack.batsim An infrastructure simulator that focuses on resource management techniques. cgvg-1.</description>
+    </item>
+    
+    <item>
+      <title>kira-bruneau</title>
+      <link>/repos/kira-bruneau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/kira-bruneau/</guid>
+      <description>Packages Name Attribute Description bcml-3.6.3 nur.repos.kira-bruneau.bcml-gtk A mod merging and managing tool for The Legend of Zelda: Breath of the Wild (GTK GUI) bcml-3.6.3 nur.repos.kira-bruneau.bcml A mod merging and managing tool for The Legend of Zelda: Breath of the Wild (Qt GUI) caprine-2.55.7 nur.repos.kira-bruneau.caprine Elegant Facebook Messenger desktop app ccache-4.7.4 nur.repos.kira-bruneau.ccache Compiler cache for fast recompilation of C/C++ code clonehero nur.repos.kira-bruneau.clonehero Clone of Guitar Hero and Rockband-style games clonehero-unwrapped-0.23.2.2 nur.repos.kira-bruneau.clonehero-unwrapped Clone of Guitar Hero and Rockband-style games clonehero-xdg-wrapper-0.</description>
+    </item>
+    
+    <item>
+      <title>lheckemann</title>
+      <link>/repos/lheckemann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/lheckemann/</guid>
+      <description>Packages Name Attribute Description asql-1.7 nur.repos.lheckemann.asql bitmap-1.0.8 nur.repos.lheckemann.x11.bitmap manaplus-1.8.9.1 nur.repos.lheckemann.manaplus pb nur.repos.lheckemann.pb_cli </description>
+    </item>
+    
+    <item>
+      <title>lightquantum</title>
+      <link>/repos/lightquantum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/lightquantum/</guid>
+      <description>Packages Name Attribute Description universal-ctags-pcre2-5.9.20220814.0 nur.repos.lightquantum.universal-ctags-pcre2 A maintained ctags implementation (with PCRE2 support) </description>
+    </item>
+    
+    <item>
+      <title>linyinfeng</title>
+      <link>/repos/linyinfeng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/linyinfeng/</guid>
+      <description>Packages Name Attribute Description activate-dpt-0.1 nur.repos.linyinfeng.activate-dpt Python script to activate Ethernet over USB of Sony DPT-RP1 aws-s3-reverse-proxy-1.1.1 nur.repos.linyinfeng.aws-s3-reverse-proxy Reverse-proxy all incoming S3 API calls to the public AWS S3 backend aws-sigv4-proxy-645ae6a38d7f244d041f7b35374cc3a1ecdf59d1 nur.repos.linyinfeng.aws-sigv4-proxy Signs and proxies HTTP requests with Sigv4 canokey-udev-rules-0.1 nur.repos.linyinfeng.canokey-udev-rules udev rules for CanoKey cf-terraforming-0.10.0 nur.repos.linyinfeng.cf-terraforming A command line utility to facilitate terraforming your existing Cloudflare resources clash-for-windows-0.20.18 nur.repos.linyinfeng.clash-for-windows A Windows/macOS/Linux GUI based on Clash and Electron clash-meta-1.14.2 nur.repos.linyinfeng.clash-meta A rule-based tunnel in Go clash-premium-2023.</description>
+    </item>
+    
+    <item>
+      <title>liyangau</title>
+      <link>/repos/liyangau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/liyangau/</guid>
+      <description>Packages Name Attribute Description act-0.2.43 nur.repos.liyangau.act Run your GitHub Actions locally case-cli-18ffbe0 nur.repos.liyangau.case-cli Convert string case on your terminal as you want deck-1.19.0 nur.repos.liyangau.deck decK provides declarative configuration and drift detection for Kong. hexo-cli-4.3.0 nur.repos.liyangau.hexo-cli Command line interface for Hexo. kong-portal-cli-3.6.0 nur.repos.liyangau.kong-portal-cli The Kong Developer Portal CLI is used to manage your Developer Portals from the command line. It is built using clipanion. nuclei-2.8.9 nur.repos.liyangau.nuclei Tool for configurable targeted scanning ov-0.</description>
+    </item>
+    
+    <item>
+      <title>lourkeur</title>
+      <link>/repos/lourkeur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/lourkeur/</guid>
+      <description>Packages Name Attribute Description garlicshare-unstable-20220107 nur.repos.lourkeur.garlicshare open source tool that lets you securely and anonymously share files on a hosted onion service using the Tor network mars-simulator-4.5 nur.repos.lourkeur.mars-simulator MIPS Assembler and Runtime Simulator ocrodjvu-0.12 nur.repos.lourkeur.ocrodjvu semiphemeral-0.5 nur.repos.lourkeur.semiphemeral Automatically delete your old tweets, except for the ones you want to keep teck-programmer-1.1.1 nur.repos.lourkeur.teck-programmer Programmer for TECK keyboards. yaru-classic-22.10.3.1 nur.repos.lourkeur.yaru-classic-theme Ubuntu community theme &amp;lsquo;yaru&amp;rsquo; - default Ubuntu theme since 18.10 </description>
+    </item>
+    
+    <item>
+      <title>lschuermann</title>
+      <link>/repos/lschuermann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/lschuermann/</guid>
+      <description>Packages Name Attribute Description vivado nur.repos.lschuermann.vivado-2020_1 vivado nur.repos.lschuermann.vivado-2022_2 </description>
+    </item>
+    
+    <item>
+      <title>lunik1</title>
+      <link>/repos/lunik1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/lunik1/</guid>
+      <description>Packages Name Attribute Description amazing-marvin-1.62.0 nur.repos.lunik1.amazing-marvin Feature rich and customizable personal to-do app. fsrcnnx-x2-16-0-4-1-1.1 nur.repos.lunik1.fsrcnnx-x2-16-0-4-1 An implementation of the Fast Super-Resolution Convolutional Neural Network in TensorFlow fsrcnnx-x2-8-0-4-1-1.1 nur.repos.lunik1.fsrcnnx-x2-8-0-4-1 An implementation of the Fast Super-Resolution Convolutional Neural Network in TensorFlow krig-bilateral-unstable-2022-05-30 nur.repos.lunik1.krig-bilateral KrigBilateral by Shiandow mpv-quality-menu-4.1.0 nur.repos.lunik1.quality-menu A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly ssim-downscaler-unstable-2022-05-15 nur.repos.lunik1.ssim-downscaler ssim-super-res-unstable-2022-02-07 nur.repos.lunik1.ssim-super-res SSimSuperRes by Shiandow thumbfast-unstable-2022-11-16 nur.</description>
+    </item>
+    
+    <item>
+      <title>m15a</title>
+      <link>/repos/m15a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/m15a/</guid>
+      <description>Packages Name Attribute Description lua0.1-rest.nvim-2023-01-23 nur.repos.m15a.vimExtraPlugins.rest-nvim luascm.1-gitsigns.nvim-2023-03-06 nur.repos.m15a.vimExtraPlugins.gitsigns-nvim luascm.1-lush.nvim-2023-03-20 nur.repos.m15a.vimExtraPlugins.lush-nvim luascm.1-nvim-cmp-2023-03-17 nur.repos.m15a.vimExtraPlugins.nvim-cmp luascm.1-plenary.nvim-2023-02-19 nur.repos.m15a.vimExtraPlugins.plenary-nvim luascm.1-telescope.nvim-2023-02-26 nur.repos.m15a.vimExtraPlugins.telescope-nvim vimplugin-abbreinder-nvim-2022-04-28 nur.repos.m15a.vimExtraPlugins.abbreinder-nvim Abbreviation reminder plugin for Neovim 0.5+ vimplugin-AbbrevMan-nvim-2021-07-15 nur.repos.m15a.vimExtraPlugins.AbbrevMan-nvim 🍍 A NeoVim plugin for managing vim abbreviations vimplugin-Abstract-cs-2022-10-21 nur.repos.m15a.vimExtraPlugins.Abstract-cs Colorscheme for (neo)vim written in lua, specially made for roshnivim with Tree-sitter support vimplugin-adwaita-nvim-2022-10-25 nur.repos.m15a.vimExtraPlugins.adwaita-nvim Neovim colorscheme using Gnome Adwaita syntax vimplugin-aerial.nvim-2023-03-18 nur.repos.m15a.vimExtraPlugins.aerial-nvim vimplugin-alpha-nvim-2023-03-13 nur.repos.m15a.vimExtraPlugins.alpha-nvim vimplugin-animation-nvim-2022-09-18 nur.repos.m15a.vimExtraPlugins.animation-nvim Create animations in Neovim vimplugin-aniseed-2023-02-19 nur.repos.m15a.vimExtraPlugins.aniseed vimplugin-apprentice-nvim-2022-08-17 nur.</description>
+    </item>
+    
+    <item>
+      <title>marsupialgutz</title>
+      <link>/repos/marsupialgutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/marsupialgutz/</guid>
+      <description>Packages Name Attribute Description badwolf-+g6e9679c.develop nur.repos.marsupialgutz.badwolf Minimalist privacy-oriented web browser. </description>
+    </item>
+    
+    <item>
+      <title>mcaju</title>
+      <link>/repos/mcaju/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/mcaju/</guid>
+      <description>Packages Name Attribute Description decaf-emu-unstable nur.repos.mcaju.decaf-emu Researching Wii U emulation epk2extract-unstable nur.repos.mcaju.epk2extract epk2extract is a tool that can extract, decrypt, convert multiple file formats that can be found in LG TV sets and similar devices. prjxray-db-0.0-251-gc284338 nur.repos.mcaju.prjxray-db Project X-Ray - Xilinx Series 7 Bitstream Documentation prjxray-tools-0.1-2928-gda7bf6a0 nur.repos.mcaju.prjxray-tools Documenting the Xilinx 7-series bit-stream format python3.10-fasm-0.0.2-g99f199f9 nur.repos.mcaju.python3Packages.fasm FPGA Assembly (FASM) Parser and Generation library python3.10-pyjson5-1.5.1 nur.repos.mcaju.python3Packages.kijewski-pyjson5 A JSON5 serializer and parser library for Python 3 written in Cython.</description>
+    </item>
+    
+    <item>
+      <title>meain</title>
+      <link>/repos/meain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/meain/</guid>
+      <description>Packages Name Attribute Description activitywatch-bin-0.11.0 nur.repos.meain.activitywatch-bin The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. dbui-0.7.0 nur.repos.meain.dbui Universal Database CLI for MySQL, PostgreSQL, and SQLite. Terminal User Interface Application. dmenu-575252ee7570512226e1f55b45af0e6676f0bbb6 nur.repos.meain.dmenu A generic, highly customizable, and efficient menu for the X Window System gh-issues-to-rss-0.3.3 nur.repos.meain.gh-issues-to-rss Convert Github issues and PRs into an rss feed gloc-0.0.9 nur.repos.meain.gloc Run a shell command in all the git repos in a directory golang-migrate-4.</description>
+    </item>
+    
+    <item>
+      <title>mic92</title>
+      <link>/repos/mic92/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/mic92/</guid>
+      <description>Packages Name Attribute Description bluez-5.66 nur.repos.mic92.gatttool Bluetooth support for Linux clearsans-1.00 nur.repos.mic92.clearsans A versatile OpenType font for screen, print and Web cntr-1.5.1 nur.repos.mic92.cntr A container debugging tool based on FUSE ConkySymbols nur.repos.mic92.conky-symbols iconic font for use in Conky drone-runner-ssh-2020-10-02 nur.repos.mic92.drone-runner-ssh Drone runner that executes a pipeline on a remote machine eapol_test-2.10 nur.repos.mic92.eapol_test A tool for connecting to WPA and WPA2-protected wireless networks gdb-dashboard-0.11.4 nur.repos.mic92.gdb-dashboard Modular visual interface for GDB in Python goatcounter-2.</description>
+    </item>
+    
+    <item>
+      <title>milahu</title>
+      <link>/repos/milahu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/milahu/</guid>
+      <description>Packages Name Attribute Description aether-server-2.0.0-dev.15 nur.repos.milahu.aether-server Peer-to-peer ephemeral public communities antlr-4.10.1 nur.repos.milahu.antlr4_10 Powerful parser generator antlr-4.11.1 nur.repos.milahu.antlr4_11 Powerful parser generator antlr-4.12.0 nur.repos.milahu.antlr Powerful parser generator antlr-4.8 nur.repos.milahu.antlr4_8 Powerful parser generator antlr-4.9.3 nur.repos.milahu.antlr4_9 Powerful parser generator archive-org-downloader-2021-09-19 nur.repos.milahu.archive-org-downloader download books from archive.org brother-hll5100dn-cupswrapper-3.5.1-1 nur.repos.milahu.brother-hll5100dn Brother HLL5100DN CUPS wrapper driver brother-hll6400dw-cupswrapper-3.5.1-1 nur.repos.milahu.brother-hll6400dw Brother HLL6400DW CUPS wrapper driver caramel-0.1.1 nur.repos.milahu.caramel OCaml to Erlang VM (BEAM) compiler deno-1.31.1 nur.repos.milahu.deno A secure runtime for JavaScript and TypeScript flutter-engine-981fe92ab998d655abded58f1f0ef2a8daeadd02 nur.</description>
+    </item>
+    
+    <item>
+      <title>mipmip</title>
+      <link>/repos/mipmip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/mipmip/</guid>
+      <description>Packages Name Attribute Description crelease-1.0.0 nur.repos.mipmip.crelease Application to simpify versioning and releasing crystal projects. cryptobox nur.repos.mipmip.cryptobox A script to create, mount and umount LUKS encrypted disk image files. cups-brother-hl4150cdn nur.repos.mipmip.hl4150cdn Brother hl4150cdn printer driver embgit-0.4.1 nur.repos.mipmip.embgit Embedded Git for electron apps fred-0.3.6 nur.repos.mipmip.fred Fred, a cli front matter editor mip-0.1.4 nur.repos.mipmip.mip Fast and simple markdown viewer </description>
+    </item>
+    
+    <item>
+      <title>misterio</title>
+      <link>/repos/misterio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/misterio/</guid>
+      <description>Packages Name Attribute Description argononed-unstable-2022-03-26 nur.repos.misterio.argononed A replacement daemon for the Argon One Raspberry Pi case clematis-2022-02-08 nur.repos.misterio.clematis Discord rich presence for MPRIS music players. comma nur.repos.misterio.comma Automatically shell into whatever package provides a command you asked for minicava-0.1 nur.repos.misterio.minicava A miniature cava sound visualizer pass-wofi nur.repos.misterio.pass-wofi A wofi graphical menu for pass photoprism-220302-0059f429 nur.repos.misterio.photoprism Personal Photo Management powered by Go and Google TensorFlow preferredplayer nur.repos.misterio.preferredplayer A script for setting a preferred player rgbdaemon nur.</description>
+    </item>
+    
+    <item>
+      <title>moaxcp</title>
+      <link>/repos/moaxcp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/moaxcp/</guid>
+      <description>Packages Name Attribute Description adoptopenjdk-hotspot-bin-10.0.2 nur.repos.moaxcp.adoptopenjdk-hotspot-bin-10 AdoptOpenJDK, prebuilt OpenJDK binary adoptopenjdk-hotspot-bin-11.0.11 nur.repos.moaxcp.adoptopenjdk-hotspot-bin-11 AdoptOpenJDK, prebuilt OpenJDK binary adoptopenjdk-hotspot-bin-12.0.2 nur.repos.moaxcp.adoptopenjdk-hotspot-bin-12 AdoptOpenJDK, prebuilt OpenJDK binary adoptopenjdk-hotspot-bin-13.0.2 nur.repos.moaxcp.adoptopenjdk-hotspot-bin-13 AdoptOpenJDK, prebuilt OpenJDK binary adoptopenjdk-hotspot-bin-14.0.2 nur.repos.moaxcp.adoptopenjdk-hotspot-bin-14 AdoptOpenJDK, prebuilt OpenJDK binary adoptopenjdk-hotspot-bin-15.0.2 nur.repos.moaxcp.adoptopenjdk-hotspot-bin-15 AdoptOpenJDK, prebuilt OpenJDK binary adoptopenjdk-hotspot-bin-16.0.1 nur.repos.moaxcp.adoptopenjdk-hotspot-bin-16 AdoptOpenJDK, prebuilt OpenJDK binary adoptopenjdk-hotspot-bin-8.0.292 nur.repos.moaxcp.adoptopenjdk-hotspot-bin-8 AdoptOpenJDK, prebuilt OpenJDK binary adoptopenjdk-jre-hotspot-bin-10.0.2 nur.repos.moaxcp.adoptopenjdk-jre-hotspot-bin-10 AdoptOpenJDK, prebuilt OpenJDK binary adoptopenjdk-jre-hotspot-bin-11.0.11 nur.repos.moaxcp.adoptopenjdk-jre-hotspot-bin-11 AdoptOpenJDK, prebuilt OpenJDK binary adoptopenjdk-jre-hotspot-bin-12.0.2 nur.repos.moaxcp.adoptopenjdk-jre-hotspot-bin-12 AdoptOpenJDK, prebuilt OpenJDK binary adoptopenjdk-jre-hotspot-bin-13.</description>
+    </item>
+    
+    <item>
+      <title>moosingin3space</title>
+      <link>/repos/moosingin3space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/moosingin3space/</guid>
+      <description>Packages Name Attribute Description cargo-embed-0.16.0 nur.repos.moosingin3space.cargo-embed-ftdi A cargo extension for working with microcontrollers probe-rs-cli-0.16.0 nur.repos.moosingin3space.probe-rs-cli-ftdi CLI tool for on-chip debugging and flashing of ARM chips python3.10-cmsis-pack-manager-0.4.0 nur.repos.moosingin3space.cmsis-pack-manager python3.10-libusb-package-1.0.25.0 nur.repos.moosingin3space.libusb-package python3.10-prettytable-2.5.0 nur.repos.moosingin3space.prettytable25 python3.10-pylink-square-0.12.0 nur.repos.moosingin3space.pylink-square012 python3.10-pyocd-0.33.1 nur.repos.moosingin3space.pyocd python3.10-pyocd-pemicro-1.1.3 nur.repos.moosingin3space.pyocd-pemicro python3.10-pypemicro-0.1.9 nur.repos.moosingin3space.pypemicro velociraptor-1.2.0 nur.repos.moosingin3space.velociraptor </description>
+    </item>
+    
+    <item>
+      <title>moredhel</title>
+      <link>/repos/moredhel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/moredhel/</guid>
+      <description>Packages Name Attribute Description emacs-dfb0ba7 nur.repos.moredhel.emacs The extensible, customizable GNU text editor kubectx nur.repos.moredhel.kubectx Convenience bash scripts for working with multiple repos shot nur.repos.moredhel.shot A simple Screenshot script. </description>
+    </item>
+    
+    <item>
+      <title>moredread</title>
+      <link>/repos/moredread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/moredread/</guid>
+      <description>Packages Name Attribute Description implicitcad-0.4.0.0 nur.repos.moredread.implicitcad Warning: experimental package, might change at any time. Math-inspired programmatic 2&amp;amp;3D CAD, also known as extopenscad joplin-desktop-2.10.4 nur.repos.moredread.joplin-desktop Prereleases: An open source note taking and to-do application with synchronisation capabilities </description>
+    </item>
+    
+    <item>
+      <title>mozilla</title>
+      <link>/repos/mozilla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/mozilla/</guid>
+      <description>Packages Name Attribute Description git-cinnabar-0.5.4 nur.repos.mozilla.git-cinnabar rust-cbindgen-0.14.3 nur.repos.mozilla.rust-cbindgen-latest A project for generating C bindings from Rust code </description>
+    </item>
+    
+    <item>
+      <title>mpickering</title>
+      <link>/repos/mpickering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/mpickering/</guid>
+      <description>Packages Name Attribute Description ghc-head-from nur.repos.mpickering.ghc-head-from </description>
+    </item>
+    
+    <item>
+      <title>mrcpkgs</title>
+      <link>/repos/mrcpkgs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/mrcpkgs/</guid>
+      <description>Packages Name Attribute Description manix-fzf nur.repos.mrcpkgs.manix-fzf nextcloud-nd nur.repos.mrcpkgs.nextcloud-no-de yubikee-smartvpn nur.repos.mrcpkgs.yubikee-smartvpn </description>
+    </item>
+    
+    <item>
+      <title>mweinelt</title>
+      <link>/repos/mweinelt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/mweinelt/</guid>
+      <description>Packages Name Attribute Description apexcharts-card-0.1.4 nur.repos.mweinelt.hassLovelaceModules.sun-card Home Assistant sun card based on Google weather design apexcharts-card-1.10.1-dev.2 nur.repos.mweinelt.hassLovelaceModules.apexcharts-card A Lovelace card to display advanced graphs and charts based on ApexChartsJS atomic-calendar-revive-7.2.0 nur.repos.mweinelt.hassLovelaceModules.atomic-calendar-revive An advanced calendar card for Home Assistant Lovelace button-card-3.4.2 nur.repos.mweinelt.hassLovelaceModules.button-card Lovelace button-card for home assistant clear-1.1 nur.repos.mweinelt.hassThemes.clear Clear Theme for Home Assistant clear-dark-1.3 nur.repos.mweinelt.hassThemes.clear-dark Dark variant of Clear Theme for Home Assistant cmangos-classic-10f407 nur.repos.mweinelt.cmangos_classic Continued Massive Network Game Object Server cmangos-tbc-ab0ac3 nur.</description>
+    </item>
+    
+    <item>
+      <title>n1kolasM</title>
+      <link>/repos/n1kolasm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/n1kolasm/</guid>
+      <description>Packages Name Attribute Description avr8-burn-omat-2.1.2 nur.repos.n1kolasM.avr8-burn-omat GUI tool for avrdude axmldec-1.2.0 nur.repos.n1kolasM.axmldec Android Binary XML Decoder neovim-gtk-unstable-0.2.0 nur.repos.n1kolasM.neovim-gtk GTK+ UI for Neovim obsidian-0.9.22 nur.repos.n1kolasM.obsidian Obsidian is a both a Markdown editor and a knowledge base app. simulavr-1.2dev nur.repos.n1kolasM.simulavr Simulavr is a simulator for the Atmel AVR family of 8-bit risc microcontrollers. SpriteSheetPacker-master-2020-06-22 nur.repos.n1kolasM.SpriteSheetPacker Sprite sheet generator based on Qt </description>
+    </item>
+    
+    <item>
+      <title>nagy</title>
+      <link>/repos/nagy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/nagy/</guid>
+      <description>Packages Name Attribute Description 2022-09-06-raspios-buster-armhf-lite.img.xz nur.repos.nagy.qemuImages.raspberryPi.buster-lite 2022-09-06-raspios-buster-armhf-lite.qcow2 nur.repos.nagy.qemuImages.raspberryPi.buster-lite-qcow2 apertium-3.7.1 nur.repos.nagy.apertium A free/open-source machine translation platform asyncer-0.0.2 nur.repos.nagy.python3Packages.asyncer Asyncer, async and await, focused on developer experience blender-asset-tracer-1.12 nur.repos.nagy.python3Packages.blender-asset-tracer Blender Asset Tracer, a.k.a. BAT, is the replacement of BAM and blender-file bollux-0.4.3 nur.repos.nagy.bollux gemini browser in like, bash? colorpedia-1.2.3 nur.repos.nagy.python3Packages.colorpedia Command-line tool for looking up colors and palettes cpp-httplib-0.10.7 nur.repos.nagy.cpp-httplib A C++ header-only HTTP/HTTPS server and client library cxxmatrix-unstable-2022-03-24 nur.repos.nagy.cxxmatrix The Matrix Reloaded in Terminals cxxtimer-1.</description>
+    </item>
+    
+    <item>
+      <title>natsukium</title>
+      <link>/repos/natsukium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/natsukium/</guid>
+      <description>Packages Name Attribute Description dssp-3.1.4 nur.repos.natsukium.dssp Calculate the most likely secondary structure assignment given the 3D structure of a protein HackGen-2.7.1 nur.repos.natsukium.hackgen composite font of Hack and GenJyuu-Gothic HackGen-NF-2.7.1 nur.repos.natsukium.hackgen-nf compoite font of Hack and GenJyuu-Gothic liga-hackgen-font-0.0.1 nur.repos.natsukium.liga-hackgen-font Ligaturized hackgen with fira code liga-hackgen-nf-font-0.0.1 nur.repos.natsukium.liga-hackgen-nf-font Ligaturized hackgen-nf with fira code ligaturizer-5 nur.repos.natsukium.ligaturizer A tool for adding ligatures to any coding font mmseqs2-14-7e284 nur.repos.natsukium.mmseqs2 Ultra fast and sensitive sequence search and clustering suite psipred-v4.</description>
+    </item>
+    
+    <item>
+      <title>neumantm</title>
+      <link>/repos/neumantm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/neumantm/</guid>
+      <description>Packages Name Attribute Description multiEclipse nur.repos.neumantm.multiEclipse python3.9-prettifyJsonLog-1.0.3 nur.repos.neumantm.prettifyJsonLog startFirefox nur.repos.neumantm.startFirefox </description>
+    </item>
+    
+    <item>
+      <title>nexromancers</title>
+      <link>/repos/nexromancers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/nexromancers/</guid>
+      <description>Packages Name Attribute Description hacksaw-unstable-2020-05-02 nur.repos.nexromancers.pkgs.hacksaw Lets you select areas of your screen (on X11) shotgun-2.2.0 nur.repos.nexromancers.pkgs.shotgun A minimal screenshot utility for X11 shotgun-unstable-2020-04-24 nur.repos.nexromancers.pkgs.shotgun-unstable A minimal screenshot utility for X11 uniconize-1.0.0 nur.repos.nexromancers.pkgs.uniconize A workaround for Wine games blackscreening on sway uniconize-unstable-2020-05-02 nur.repos.nexromancers.pkgs.uniconize-unstable A workaround for Wine games blackscreening on sway </description>
+    </item>
+    
+    <item>
+      <title>nix-data</title>
+      <link>/repos/nix-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/nix-data/</guid>
+      <description>Packages Name Attribute Description example-package-1.0 nur.repos.nix-data.example-package </description>
+    </item>
+    
+    <item>
+      <title>nix-geht</title>
+      <link>/repos/nix-geht/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/nix-geht/</guid>
+      <description>Packages Name Attribute Description ff-glitch-0.1.0 nur.repos.nix-geht.ff-glitch farbfeld image glitcher ff-notext-0.1.0 nur.repos.nix-geht.ff-notext Tesseract OCR-based text removal on farbfeld images ff-overlay-1.0.0 nur.repos.nix-geht.ff-overlay overlay one farbfeld image on top of another ff-sort-1.0.0 nur.repos.nix-geht.ff-sort farbfeld pixel sorter ffshot-1.0.0 nur.repos.nix-geht.ffshot farbfeld screenshot utility opensoundmeter-1.2.2 nur.repos.nix-geht.opensoundmeter Sound measurement application for tuning audio systems in real-time python3.10-vppcfg-0.0.2 nur.repos.nix-geht.vppcfg python3.10-vpp_papi-2.0.0 nur.repos.nix-geht.vpp_papi Vector Packet Processor Engine - Python API vpp-22.10.1 nur.repos.nix-geht.vpp Vector Packet Processor Engine </description>
+    </item>
+    
+    <item>
+      <title>nix-swift-packages</title>
+      <link>/repos/nix-swift-packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/nix-swift-packages/</guid>
+      <description>Packages Name Attribute Description swift-Yams-4.0.6 nur.repos.nix-swift-packages.Yams </description>
+    </item>
+    
+    <item>
+      <title>nnb</title>
+      <link>/repos/nnb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/nnb/</guid>
+      <description>Packages Name Attribute Description bmono-1.2-11.2.2 nur.repos.nnb.bmono Mono font that SuperB pepper-0.23.3 nur.repos.nnb.pepper A simple and opinionated modal code editor for your terminal pepper-plugin-lsp-0.10.0 nur.repos.nnb.pepper-lsp Pepper editor with Language Server Protocol plugin </description>
+    </item>
+    
+    <item>
+      <title>npkgs</title>
+      <link>/repos/npkgs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/npkgs/</guid>
+      <description>Packages Name Attribute Description delta-0.4.1 nur.repos.npkgs.delta A syntax-highlighting pager for git isostatic-v0.1.1 nur.repos.npkgs.isostatic minimal url shortner service motd-v0.1.0 nur.repos.npkgs.motd pista-0.1.4 nur.repos.npkgs.pista a simple {bash, zsh} prompt for programmers shlide-v0.1.0 nur.repos.npkgs.shlide slide deck presentation tool written in pure bash xcursorlocate-0.1.1 nur.repos.npkgs.xcursorlocate cursor location indicator for X11 </description>
+    </item>
+    
+    <item>
+      <title>nprindle</title>
+      <link>/repos/nprindle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/nprindle/</guid>
+      <description>Packages Name Attribute Description carbon-now-1.4.0 nur.repos.nprindle.carbon-now Beautiful images of your code-from right inside your terminal. ruby2.7.7-githug-0.5.0 nur.repos.nprindle.githug An interactive way to learn git </description>
+    </item>
+    
+    <item>
+      <title>ocfox</title>
+      <link>/repos/ocfox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/ocfox/</guid>
+      <description>Packages Name Attribute Description showmethekey-1.8.0 nur.repos.ocfox.showmethekey Show keys you typed on screen swww-0.6.0 nur.repos.ocfox.swww Efficient animated wallpaper daemon for wayland, controlled at runtime </description>
+    </item>
+    
+    <item>
+      <title>oluceps</title>
+      <link>/repos/oluceps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/oluceps/</guid>
+      <description>Packages Name Attribute Description Graphite-cursors-2021-11-26 nur.repos.oluceps.Graphite-cursors Graphite cursor theme maoken-tangyuan-0.12beta nur.repos.oluceps.maoken-tangyuan TangYuan/MaoKen TangYuan font naiveproxy-111.0.5563.64-1 nur.repos.oluceps.naiveproxy naiveproxy oppo-sans-0.1 nur.repos.oluceps.oppo-sans a new typeface designed by Oppo for use in the company&amp;rsquo;s brand identity and as the official font in ColorOS plangothic-font-0.5.5694 nur.repos.oluceps.plangothic SHSans-derived CJK font family with a more concise &amp;amp; modern look RustPlayer-772774ac03be3b45c2bc60e0d32eea1ff68c2dd9 nur.repos.oluceps.rustplayer An local audio player &amp;amp; m3u8 radio player using Rust and completely terminal guimusical_note san-francisco-53ffbe571bb83dbb4835a010b4a49ebb9a32fc55 nur.repos.oluceps.san-francisco Apple fonts sing-box-1.</description>
+    </item>
+    
+    <item>
+      <title>ondt</title>
+      <link>/repos/ondt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/ondt/</guid>
+      <description>Packages Name Attribute Description csvlens-0.1.1 nur.repos.ondt.csvlens Command line csv viewer lemonade-0.1.0 nur.repos.ondt.lemonade A multithreaded alternative to lemonbar written in rust ulozto-downloader-2.6.0 nur.repos.ondt.ulozto-downloader Paralelní stahovač z Ulož.to s automatickým louskáním CAPTCHA kódů xss-events-0.1 nur.repos.ondt.xss-events A simple X11 ScreenSaver event listener xvisbell-0.1 nur.repos.ondt.xvisbell Visual Bell for X11 </description>
+    </item>
+    
+    <item>
+      <title>ouzu</title>
+      <link>/repos/ouzu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/ouzu/</guid>
+      <description>Packages Name Attribute Description cf-dns-updater-0.3 nur.repos.ouzu.cf-dns-updater Gets the public IP adress from FritzBox routers and updates Cloudflare DNS records hbs-1.0.0 nur.repos.ouzu.hbs A command line utility that searches for files, and tells you how big it all is. i3lock-fancy-rapid-0.0.1 nur.repos.ouzu.i3lock-fancy-rapid A faster implementation of i3lock-fancy. It is blazing fast and provides a fully configurable box blur. It uses linear-time box blur and accelerates using OpenMP. linx-client-1.5.2 nur.repos.ouzu.linx-client Simple client for linx-server linx-server-2.</description>
+    </item>
+    
+    <item>
+      <title>pascalthesing</title>
+      <link>/repos/pascalthesing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/pascalthesing/</guid>
+      <description>Packages Name Attribute Description mysql-5.7.39 nur.repos.pascalthesing.mysql57 The world&amp;rsquo;s most popular open source database </description>
+    </item>
+    
+    <item>
+      <title>pborzenkov</title>
+      <link>/repos/pborzenkov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/pborzenkov/</guid>
+      <description>Packages Name Attribute Description authelia-4.37.5 nur.repos.pborzenkov.authelia The Single Sign-On Multi-Factor portal for web apps. koreader-syncd-0.1.0 nur.repos.pborzenkov.koreader-syncd KOReader progress sync server osccopy-0.1.0 nur.repos.pborzenkov.osccopy Copy text from remote machine into local clipboard rofi-power-menu-3.0.2 nur.repos.pborzenkov.rofi-power-menu Shows a Power/Lock menu with Rofi tg-bot-skyeng-2021-04-08-645c17d nur.repos.pborzenkov.tg-bot-skyeng Telegram bot for Skyeng word lists. tg-bot-transmission-0.2.0 nur.repos.pborzenkov.tg-bot-transmission Telegram bot for Transmission torrent client. transmission-exporter-0.2.0 nur.repos.pborzenkov.transmission-exporter Prometheus exporter for Transmission torrent client. vlmcsd-1113 nur.repos.pborzenkov.vlmcsd KMS Emulator in C wallabagger-1.15.0 nur.repos.pborzenkov.firefox-addons.wallabagger This wallabag v2 extension has the ability to edit title and tags and set starred, archived, or delete states.</description>
+    </item>
+    
+    <item>
+      <title>petrichor</title>
+      <link>/repos/petrichor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/petrichor/</guid>
+      <description>Packages Name Attribute Description dart-sass-1.32.8 nur.repos.petrichor.dart-sass </description>
+    </item>
+    
+    <item>
+      <title>plabadens</title>
+      <link>/repos/plabadens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/plabadens/</guid>
+      <description>Packages Name Attribute Description ceserver-7.4 nur.repos.plabadens.ceserver Graphs the disk IO in a linux terminal diskgraph-2021-05-13 nur.repos.plabadens.diskgraph Graphs the disk IO in a linux terminal EDMarketConnector-5.1.1 nur.repos.plabadens.edmarketconnector Downloads commodity market and other station data from the game Elite: Dangerous for use with all popular online and offline trading tools. EDMarketConnector-5.1.1 nur.repos.plabadens.python3Packages.edmarketconnector Downloads commodity market and other station data from the game Elite: Dangerous for use with all popular online and offline trading tools.</description>
+    </item>
+    
+    <item>
+      <title>pokon548</title>
+      <link>/repos/pokon548/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/pokon548/</guid>
+      <description>Packages Name Attribute Description plasma5-applets-window-appmenu-0.8.0 nur.repos.pokon548.plasma5-applets-window-appmenu Plasma 5 applet in order to show the window appmenu plasma5-wallpapers-dynamic-4.4.0 nur.repos.pokon548.plasma5-wallpapers-dynamic Dynamic wallpaper plugin for KDE Plasma Tencent-QQ-3.0.0-565 nur.repos.pokon548.tencent-qq-electron (Deprecated. You should migrate to nixpkgs distribution) Official Tencent QQ client for Linux (Beta) Tencent-QQ-3.0.0-565-bwrap nur.repos.pokon548.tencent-qq-electron-bwrap Official Tencent QQ client for Linux (Beta) with enhanced bwrap rules Todoist-1.0.9 nur.repos.pokon548.todoist-electron The official Todoist electron app v2raya-unstable-2023-03-17 nur.repos.pokon548.v2raya A Linux web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel </description>
+    </item>
+    
+    <item>
+      <title>polykernel</title>
+      <link>/repos/polykernel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/polykernel/</guid>
+      <description>Packages Name Attribute Description i3bar-river-master nur.repos.polykernel.pkgs.i3bar-river A port of i3bar for river. kickoff-v0.7.0 nur.repos.polykernel.pkgs.kickoff Minimalistic program launcher heavily inspired by rofi. Lorien-0.5.0 nur.repos.polykernel.pkgs.lorien Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot. swayimg-1.11 nur.repos.polykernel.pkgs.swayimg a lightweight image viewer for Sway/Wayland display servers wired-notify-0.10.2 nur.repos.polykernel.pkgs.wired-notify Lightweight notification daemon with highly customizable layout blocks, written in Rust. wldash-master nur.repos.polykernel.pkgs.wldash A dashboard/launcher/control-panel thing for Wayland. </description>
+    </item>
+    
+    <item>
+      <title>priegger</title>
+      <link>/repos/priegger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/priegger/</guid>
+      <description>Packages Name Attribute Description go-hello-world nur.repos.priegger.go-hello-world A go hello world application nanoc-4.12.15 nur.repos.priegger.nanoc Nanoc is a flexible static-site generator rust-hello-world nur.repos.priegger.rust-hello-world A rust hello world service with rocket and prometheus metrics </description>
+    </item>
+    
+    <item>
+      <title>ProducerMatt</title>
+      <link>/repos/producermatt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/producermatt/</guid>
+      <description>Packages Name Attribute Description git-fix-whitespace-2016-04-27 nur.repos.ProducerMatt.git-fix-whitespace hugs98_2020-11-21 nur.repos.ProducerMatt.hugs98 orgmk_2022-01-20 nur.repos.ProducerMatt.orgmk pledge-2023-03-19 nur.repos.ProducerMatt.pledge Easily launch commands in a sandbox inspired by the design of openbsd&amp;rsquo;s pledge() and unveil() system calls. ripsecrets-0.1.5 nur.repos.ProducerMatt.ripsecrets A command-line tool to prevent committing secret keys into your source code rsbkb-1.1 nur.repos.ProducerMatt.rsbkb Command line tools to encode/decode things rsync-bpc-7215af4f16b729098193d7dde5a8c3c8c4ae80de nur.repos.ProducerMatt.rsync-bpc Fast incremental file transfer utility yaml2nix-2021-08-21 nur.repos.ProducerMatt.yaml2nix A command-line tool to convert yaml into a nix expression </description>
+    </item>
+    
+    <item>
+      <title>ptival</title>
+      <link>/repos/ptival/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/ptival/</guid>
+      <description>Packages Name Attribute Description abc-20160818 nur.repos.ptival.abc A tool for sequential logic synthesis and formal verification meslo-nerd-powerlevel10k-1.0 nur.repos.ptival.meslo-nerd-powerlevel10k A version of Apple’s Menlo-Regular font patched for Powerlevel10k opensmt2-2.0.1 nur.repos.ptival.opensmt2 An SMT solver sally-20190815 nur.repos.ptival.sally A model checker for infinite-state systems. </description>
+    </item>
+    
+    <item>
+      <title>qwbarch</title>
+      <link>/repos/qwbarch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/qwbarch/</guid>
+      <description>Packages Name Attribute Description arcanist2 nur.repos.qwbarch.arcanists2 Turn-based multiplayer strategy game </description>
+    </item>
+    
+    <item>
+      <title>reedrw</title>
+      <link>/repos/reedrw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/reedrw/</guid>
+      <description>Packages Name Attribute Description artwiz-lemon nur.repos.reedrw.artwiz-lemon Improved version of artwiz-lime with better kerning, distinct characters, extended unicode support, and in-built icons. bitwarden-rofi-git-2022-05-02 nur.repos.reedrw.bitwarden-rofi Wrapper for Bitwarden and Rofi jkps-0.3 nur.repos.reedrw.jkps A keys-per-second meter for rhythm games, useful for streaming and making videos picom-next-ibhagwan nur.repos.reedrw.picom-next-ibhagwan A picom fork with rounded corners and dual_kawase blur on all backends. python3.10-genshin-account-switcher-1.2.1 nur.repos.reedrw.genshin-account-switcher Simple account switcher for Genshin Impact on Linux. rctpm nur.repos.reedrw.rctpm OpenRCT2 Plugin Manager shairport-sync-metadata-reader nur.</description>
+    </item>
+    
+    <item>
+      <title>rencire</title>
+      <link>/repos/rencire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/rencire/</guid>
+      <description>Packages Name Attribute Description neovim-0.8.3 nur.repos.rencire.neovim Vim text editor fork focused on extensibility and agility </description>
+    </item>
+    
+    <item>
+      <title>renesat</title>
+      <link>/repos/renesat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/renesat/</guid>
+      <description>Packages Name Attribute Description activitywatch-bin-0.11.0 nur.repos.renesat.activitywatch-bin The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. hledger-utils-1.12.0 nur.repos.renesat.hledger-utils Utilities enhancing hledger python3.10-drawille-0.1.0 nur.repos.renesat.drawille Pixel graphics in terminal with unicode braille characters python3.10-drawilleplot-0.1.0 nur.repos.renesat.drawilleplot matplotlib backend for graph output in unicode terminals using drawille </description>
+    </item>
+    
+    <item>
+      <title>rewine</title>
+      <link>/repos/rewine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/rewine/</guid>
+      <description>Packages Name Attribute Description aliyunpan-2.9.24 nur.repos.rewine.aliyunpan PC client developed based on Alibaba cloud disk web version cmd-markdown-2017-01-14 nur.repos.rewine.cmd-markdown An easy to use markdown editor electron-netease-cloud-music-0.9.36 nur.repos.rewine.electron-netease-cloud-music UNOFFICIAL client for music.163.com. Powered by Electron and Vue GraphBuilder-1.3.0 nur.repos.rewine.graphbuilder A visualized tool to create a graph LANDrop-0.4.0 nur.repos.rewine.landrop Drop any files to any devices on your LAN lx-music-desktop-1.22.2 nur.repos.rewine.lx-music-desktop luoxu music player powered by electron nextssh nur.repos.rewine.nextssh ttf-ms-win10-unstable-2021-02-10 nur.repos.rewine.ttf-ms-win10 Microsoft Windows 10 TrueType fonts for Linux ttf-wps-fonts-unstable-2017-08-16 nur.</description>
+    </item>
+    
+    <item>
+      <title>robertodr</title>
+      <link>/repos/robertodr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/robertodr/</guid>
+      <description>Packages Name Attribute Description enso-linux-2022.1.1-nightly.2022-10-15 nur.repos.robertodr.enso Hybrid visual and textual functional programming. git-along-unstable-2019-12-30 nur.repos.robertodr.git-along Manage project configuration and environment in side branches inkscape-isometric-projection-2.1 nur.repos.robertodr.inkscape-isometric-projections Inkscape extension for converting objects to an isometric projection mplus-fonts nur.repos.robertodr.mplus-fonts M + Outline Fonts (GitHub release) tlclient-4.14.0-2324 nur.repos.robertodr.tlclient Linux remote desktop client built on open source technology </description>
+    </item>
+    
+    <item>
+      <title>rseops</title>
+      <link>/repos/rseops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/rseops/</guid>
+      <description>Packages Name Attribute Description adiak-0.2.2 nur.repos.rseops.adiak Metadata collector for HPC application runs caliper-2.8.0 nur.repos.rseops.caliper Program instrumentation and performance measurement framework conduit-0.8.4 nur.repos.rseops.conduit Program instrumentation and performance measurement framework conveyorlc-1.1.2-1 nur.repos.rseops.conveyorlc A Parallel Virtual Screening Pipeline for Docking and MM/GSBA flux-core-0.45.0 nur.repos.rseops.flux-core A next-generation resource manager. flux-sched-0.25.0 nur.repos.rseops.flux-sched A next-generation resource manager. </description>
+    </item>
+    
+    <item>
+      <title>ruixi-rebirth</title>
+      <link>/repos/ruixi-rebirth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/ruixi-rebirth/</guid>
+      <description>Packages Name Attribute Description bilibili_live_tui-20230111 nur.repos.ruixi-rebirth.bilibili_live_tui 终端下使用的bilibili弹幕获取和弹幕发送服务 youtube-tui-0.7.0 nur.repos.ruixi-rebirth.youtube-tui An aesthetically pleasing YouTube TUI written in Rust ytermusic-0.1.0 nur.repos.ruixi-rebirth.ytermusic A terminal based Youtube Music Player. It&amp;rsquo;s aims to be as fast and simple as possible. Writtten in Rust </description>
+    </item>
+    
+    <item>
+      <title>rummik</title>
+      <link>/repos/rummik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/rummik/</guid>
+      <description>Packages Name Attribute Description example-package-1.0 nur.repos.rummik.example-package </description>
+    </item>
+    
+    <item>
+      <title>rycee</title>
+      <link>/repos/rycee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/rycee/</guid>
+      <description>Packages Name Attribute Description a11ycss-1.3.0 nur.repos.rycee.firefox-addons.a11ycss a11y.css provides warnings about possible risks and mistakes that exist in HTML code through a style sheet. This extension also provides several accessibility-related utilities.see https://github.com/ffoodd/a11y.css/tree/webextension for details add-custom-search-engine-4.2 nur.repos.rycee.firefox-addons.add-custom-search-engine Add a custom search engine to the list of available search engines in the search bar and URL bar. adnauseam-3.16.2.0 nur.repos.rycee.firefox-addons.adnauseam Blocking ads and fighting back against advertising surveillance. adsum-notabs-1.1 nur.repos.rycee.firefox-addons.adsum-notabs Disable tabs completely, by always opening a new window instead.</description>
+    </item>
+    
+    <item>
+      <title>sagikazarmark</title>
+      <link>/repos/sagikazarmark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/sagikazarmark/</guid>
+      <description>Packages Name Attribute Description decktape-3.7.0 nur.repos.sagikazarmark.decktape High-quality PDF exporter for HTML presentation frameworks emmet-ls-0.3.1 nur.repos.sagikazarmark.emmet-ls emmet support by LSP quarto-1.2.335 nur.repos.sagikazarmark.quarto Open-source scientific and technical publishing system built on Pandoc reveal-md-5.4.1 nur.repos.sagikazarmark.reveal-md reveal.js on steroids! Get beautiful reveal.js presentations from your Markdown files. sf-pro-20220523-8bfea09a nur.repos.sagikazarmark.sf-pro San Francisco Pro fonts by Apple temporalite-0.2.0 nur.repos.sagikazarmark.temporalite An experimental distribution of Temporal that runs as a single process </description>
+    </item>
+    
+    <item>
+      <title>schmittlauch</title>
+      <link>/repos/schmittlauch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/schmittlauch/</guid>
+      <description>Packages Name Attribute Description lolcommits-0.16.3 nur.repos.schmittlauch.lolcommits mplayer-unstable-2022-02-03 nur.repos.schmittlauch.mplayerV4l A movie player that supports many video formats numptyphysics nur.repos.schmittlauch.numptyphysics a drawing puzzle game based on construction and physics puzzles vollkorn-4.105 nur.repos.schmittlauch.vollkorn The free and healthy typeface for bread and butter use </description>
+    </item>
+    
+    <item>
+      <title>sehqlr</title>
+      <link>/repos/sehqlr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/sehqlr/</guid>
+      <description>Packages Name Attribute Description kakoune-ghwiki-2020-02-25 nur.repos.sehqlr.kakoune-ghwiki Teach Kakoune tricks for editing a GitHub-style wiki </description>
+    </item>
+    
+    <item>
+      <title>shados</title>
+      <link>/repos/shados/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/shados/</guid>
+      <description>Packages Name Attribute Description arcconf-v2.05.22932 nur.repos.shados.arcconf Microsemi Adaptec ARCCONF command line interface utility chromium-launcher-v8 nur.repos.shados.chromium-launcher Chromium launcher with support for custom user flags firefox-history-merger-unstable-2021-11-05 nur.repos.shados.firefox-history-merger Merge Firefox history and repair missing favicons with ease json-yaml-1.2.1 nur.repos.shados.json-yaml Converts JSON to YAML and back loudgain-unstable-2020-12-28 nur.repos.shados.loudgain ReplayGain 2.0 loudness normalizer based on the EBU R128/ITU BS.1770 standard switch-dbibackend-486 nur.repos.shados.switch-dbibackend The ultimate solution to install NSP, NSZ, XCI and XCZ and work with Nintendo Switch systemd-lock-handler-2.</description>
+    </item>
+    
+    <item>
+      <title>shadowrz</title>
+      <link>/repos/shadowrz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/shadowrz/</guid>
+      <description>Packages Name Attribute Description 86box-3.7.1 nur.repos.shadowrz._86box Emulator of x86-based machines based on PCem adw-gtk3-be9441ef8f1164aa0f9593ba3263711bea5c6a4f nur.repos.shadowrz.adw-gtk3 The theme from libadwaita ported to GTK-3 klassy-4.0.breeze5.25.80 nur.repos.shadowrz.klassy A highly customizable binary Window Decoration and Application Style plugin for recent versions of the KDE Plasma desktop kose-font-20210514 nur.repos.shadowrz.kose-font A Chinese handwriting font derived from SetoFont / Naikai Font / cjkFonts-AllSeto. mkxp-z-2.4.0 nur.repos.shadowrz.mkxp-z RGSS on Steroids. With a ridiculous name. rvpacker-1.2.0 nur.repos.shadowrz.rvpacker A tool to unpack &amp;amp; pack RPGMaker data files into text so they can be version controlled &amp;amp; collaborated on sddm-lain-wired-theme-0.</description>
+    </item>
+    
+    <item>
+      <title>shamilton</title>
+      <link>/repos/shamilton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/shamilton/</guid>
+      <description>Packages Name Attribute Description alacritty-patched-0.11.0 nur.repos.shamilton.patched-alacritty A cross-platform, GPU-accelerated terminal emulator android-platform-tools-latest nur.repos.shamilton.android-platform-tools android sdk platform-tools argparse-2.1 nur.repos.shamilton.argparse Argument Parser for Modern C++ AutoGnirehtet-unstable nur.repos.shamilton.autognirehtet Automatic reconnect script for gnirehtet cargo-sort-ck-1.1 nur.repos.shamilton.cargo-sort-ck Check if tables and items in a .toml file are lexically sorted CdC-cognitoform-result-generator-0.1 nur.repos.shamilton.cdc-cognitoform-result-generator Generates a latex formatted output from an xlsx cognitoform excel sheet, made for classes councils preparation. Compton-0.1_beta2 nur.repos.shamilton.compton Compositor for X11 ControlsForFake-unstable nur.repos.shamilton.controls-for-fake The Qt gui frontend for FakeMicWavPlayer create_ap-2018-08-16 nur.</description>
+    </item>
+    
+    <item>
+      <title>sigprof</title>
+      <link>/repos/sigprof/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/sigprof/</guid>
+      <description>Packages Name Attribute Description cosevka-6.1.3.1 nur.repos.sigprof.cosevka Customized version of the Iosevka font - slender monospace sans-serif andslab-serif typeface inspired by Pragmata Pro, M+ and PF DIN Mono,designed to be the ideal font for programming. firefox-langpack-ach-102.9.0esr nur.repos.sigprof.firefox-esr-langpack-ach Firefox language pack for the &amp;lsquo;ach&amp;rsquo; language. firefox-langpack-ach-111.0.1 nur.repos.sigprof.firefox-langpack-ach Firefox language pack for the &amp;lsquo;ach&amp;rsquo; language. firefox-langpack-af-102.9.0esr nur.repos.sigprof.firefox-esr-langpack-af Firefox language pack for the &amp;lsquo;af&amp;rsquo; language. firefox-langpack-af-111.0.1 nur.repos.sigprof.firefox-langpack-af Firefox language pack for the &amp;lsquo;af&amp;rsquo; language. firefox-langpack-an-102.</description>
+    </item>
+    
+    <item>
+      <title>sky</title>
+      <link>/repos/sky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/sky/</guid>
+      <description>Packages Name Attribute Description example-package-1.0 nur.repos.sky.example-package lol-launchhelper-1 nur.repos.sky.lol-launchhelper A helper for the League Of Legends launcher on Linux to run faster. ncpamixer-git nur.repos.sky.ncpamixer-git </description>
+    </item>
+    
+    <item>
+      <title>slaier</title>
+      <link>/repos/slaier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/slaier/</guid>
+      <description>Packages Name Attribute Description aria2-integration-0.4.5 nur.repos.slaier.firefox-addons.aria2-integration Replace built-in download manager. When activated, detects the download links to direct links to this add-on and send to Aria2 arkenfox-userjs-110.0 nur.repos.slaier.arkenfox-userjs Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening clash-geoip-20230312 nur.repos.slaier.clash-geoip A GeoLite2 data created by MaxMind clashctl-0.3.3 nur.repos.slaier.clashctl CLI for interacting with clash copy-link-text-webextension-1.6.4 nur.repos.slaier.firefox-addons.copy-link-text-webextension Copy the text of the link. dictionary-anyvhere-1.1.0 nur.repos.slaier.firefox-addons.dictionary-anyvhere View definitions easily as you browse the web.</description>
+    </item>
+    
+    <item>
+      <title>smaret</title>
+      <link>/repos/smaret/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/smaret/</guid>
+      <description>Packages Name Attribute Description astrochem-v0.9 nur.repos.smaret.astrochem Code to compute the abundances of chemical species in the interstellar medium gildas-20230301_a nur.repos.smaret.gildas Radioastronomy data analysis software mcfost-v3.0.36 nur.repos.smaret.mcfost 3D continuum and line radiative transfer code based on the Monte Carlo method python3.10-astropy-5.2 nur.repos.smaret.astropy Astronomy/Astrophysics library for Python python3.10-lmfit-1.0.3 nur.repos.smaret.lmfit Non-Linear Least-Squares Minimization and Curve-Fitting for Python python3.10-photutils-1.6.0 nur.repos.smaret.photutils Astropy package for detection and photometry of astronomical sources. python3.10-pvextractor-0.3 nur.repos.smaret.pvextractor Position-Velocity Diagram Extractor python3.</description>
+    </item>
+    
+    <item>
+      <title>smolsnail</title>
+      <link>/repos/smolsnail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/smolsnail/</guid>
+      <description>Packages Name Attribute Description arduino-language-server-0.5.0 nur.repos.smolsnail.arduino-language-server An Arduino Language Server based on Clangd to Arduino code autocompletion cursor-left-yaru-1.0.0 nur.repos.smolsnail.cursor-left-yaru A set of left-handed cursors for left-handed people. everforest-gtk-unstable-2021-09-28 nur.repos.smolsnail.everforest-gtk The everforest colorscheme brought to gtk monochrome-kde-20210222 nur.repos.smolsnail.monochrome-kde A dark theme inspired by black and white photography. neocities-0.0.15 nur.repos.smolsnail.neocities-ruby A CLI and library for using the Neocities API. python3.9-bandcamp-downloader-0.0.12 nur.repos.smolsnail.bandcamp-dl download audio from BandCamp.com python3.9-patcat-2021.12.23 nur.repos.smolsnail.pat Outputs text with rainbow colors. remark-cli-10.</description>
+    </item>
+    
+    <item>
+      <title>some-pkgs</title>
+      <link>/repos/some-pkgs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/some-pkgs/</guid>
+      <description>Packages Name Attribute Description lustre-2.15.0 nur.repos.some-pkgs.lustre A parallel file system for HPC clusters python3.10-accelerate nur.repos.some-pkgs.accelerate A library by huggingface that provides a simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision python3.10-albumentations-1.3.0 nur.repos.some-pkgs.albumentations Image augmentation library for training deep learning models python3.10-arxiv.py-1.4.3 nur.repos.some-pkgs.arxiv-py python3.10-check-shapes-1.0.0 nur.repos.some-pkgs.check-shapes Library for annotating and checking tensor shapes python3.10-cppimport-22.08.02 nur.repos.some-pkgs.cppimport Import C++ files directly from Python! python3.10-datasette-render-images-0.3.2 nur.repos.some-pkgs.datasette-render-images Datasette plugin that renders binary blob images using data-uris python3.</description>
+    </item>
+    
+    <item>
+      <title>souxd</title>
+      <link>/repos/souxd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/souxd/</guid>
+      <description>Packages Name Attribute Description beebeep-5.8.4 nur.repos.souxd.beebeep Free office messenger glaxnimate nur.repos.souxd.glaxnimate Simple and fast vector graphics animation program </description>
+    </item>
+    
+    <item>
+      <title>splintah</title>
+      <link>/repos/splintah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/splintah/</guid>
+      <description>Packages Name Attribute Description giph-1.1 nur.repos.splintah.giph id3 nur.repos.splintah.id3 id3 - a command line mass tagger mopidy-podcast-2.0.3 nur.repos.splintah.mopidy-podcast Mopidy-Podcast is a Mopidy extension for browsing and playing podcasts. ocamlweb-1.41 nur.repos.splintah.ocamlweb onedrive-2.4.5 nur.repos.splintah.onedrive </description>
+    </item>
+    
+    <item>
+      <title>suhr</title>
+      <link>/repos/suhr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/suhr/</guid>
+      <description>Packages Name Attribute Description 31key-0.1.0 nur.repos.suhr._31key Tricesimoprimal Keyboard augr-0.2.1 nur.repos.suhr.augr A simple command line time tracker ciao-1.19.0 nur.repos.suhr.ciao A general purpose, multi-paradigm programming language in the Prolog family dcpt720dw-cupswrapper-3.5.0 nur.repos.suhr.dcpt720dw-cupswrapper Brother dcpt720dw printer CUPS wrapper driver dcpt720dw-lpr-3.5.0 nur.repos.suhr.dcpt720dwlpr Brother dcpt720dw printer driver deadbeef-waveform-seekbar-plugin-0.5 nur.repos.suhr.deadbeef-waveform-seekbar-plugin Waveform Seekbar plugin for DeaDBeeF audio player frame nur.repos.suhr.frame System-wide Web3 for macOS, Windows and Linux iosevka-term-9.0.1 nur.repos.suhr.iosevka-term Versatile typeface for code, from code. mimi-0.1.0 nur.repos.suhr.mimi Tricesimoprimal Keyboard minimal-sddm-theme-0.</description>
+    </item>
+    
+    <item>
+      <title>syberant</title>
+      <link>/repos/syberant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/syberant/</guid>
+      <description>Packages Name Attribute Description caia nur.repos.syberant.caia caia nur.repos.syberant.caia-unwrapped The program tester and competition runner for CodeCup Digital-0.29 nur.repos.syberant.digital A digital logic designer and circuit simulator. dwm-6.4 nur.repos.syberant.dwm An extremely fast, small, and dynamic window manager for X emojipicker nur.repos.syberant.emojipicker launchers-git nur.repos.syberant.launchers-git polybar-1 nur.repos.syberant.polybar-1 polybar-3 nur.repos.syberant.polybar-3 powermenu nur.repos.syberant.powermenu rofi-unwrapped-git-1.6.0 nur.repos.syberant.rofi-unwrapped-git Window switcher, run dialog and dmenu replacement ytfzf-1.1.2 nur.repos.syberant.ytfzf </description>
+    </item>
+    
+    <item>
+      <title>tboerger</title>
+      <link>/repos/tboerger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/tboerger/</guid>
+      <description>Packages Name Attribute Description freelook-1.0.1 nur.repos.tboerger.freelook Unofficial desktop client for Microsoft Outlook kubectl-ktop-0.3.0 nur.repos.tboerger.kubectl-ktop A top-like tool for your Kubernetes clusters kubectl-neat-2.0.3 nur.repos.tboerger.kubectl-neat A kubectl plugin that cleans up Kubernetes yaml and json output to make it readable kubectl-oomd-0.0.6 nur.repos.tboerger.kubectl-oomd A kubectl plugin that shows pods/containers which have recently been OOMKilled kubectl-pexec-0.4.0 nur.repos.tboerger.kubectl-pexec A kubectl plugin to run commands in a container with high privileges kubectl-realname-diff-0.2.3 nur.repos.tboerger.kubectl-realname-diff A kubectl plugin that diffs live and local resources ignoring Kustomize hash-suffixes kubectl-resource-versions-0.</description>
+    </item>
+    
+    <item>
+      <title>thaumy</title>
+      <link>/repos/thaumy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/thaumy/</guid>
+      <description>Packages Name Attribute Description idbuilder-6.0.2 nur.repos.thaumy.idbuilder More than an identifier building tool microsoft-todo-electron-1.3.2 nur.repos.thaumy.microsoft-todo-electron Microsoft ToDo wrapped in Electron </description>
+    </item>
+    
+    <item>
+      <title>timsueberkrueb</title>
+      <link>/repos/timsueberkrueb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/timsueberkrueb/</guid>
+      <description>Packages Name Attribute Description lmms-1.3.0-alpha.1 nur.repos.timsueberkrueb.lmms DAW similar to FL Studio (music production software) tutanota-desktop-3.105.9 nur.repos.timsueberkrueb.tutanota-desktop Tutanota official desktop client </description>
+    </item>
+    
+    <item>
+      <title>tinybeachthor</title>
+      <link>/repos/tinybeachthor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/tinybeachthor/</guid>
+      <description>Packages Name Attribute Description fluidsynth-2.1.5 nur.repos.tinybeachthor.fluidsynth Real-time software synthesizer based on the SoundFont 2 specifications operator-sdk-0.16.0 nur.repos.tinybeachthor.operator-sdk SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding spotify-authenticate-1.0.0 nur.repos.tinybeachthor.spotify-authenticate Get Spotify oauth refreshable access-token </description>
+    </item>
+    
+    <item>
+      <title>tokudan</title>
+      <link>/repos/tokudan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/tokudan/</guid>
+      <description>Packages Name Attribute Description cbmbasicgit-20141207 nur.repos.tokudan.cbmbasic Commodore BASIC V2 as a scripting language cc65-git-20200221 nur.repos.tokudan.cc65 a complete cross development package for 6502/65C02 systems, including a powerful macro assembler, a C compiler, linker, librarian and several other tools disk-utilities-2020-02-12 nur.repos.tokudan.disk-utilities collection of utilities for ripping, dumping, analysing, and modifying disk images freshrss-1.17.0 nur.repos.tokudan.freshrss a self-hosted RSS feed aggregator like Leed or Kriss Feed nibtools-666 nur.repos.tokudan.nibtools a disk transfer program designed for copying original disks and converting into the G64 and D64 disk image formats opencbm-git-20200701 nur.</description>
+    </item>
+    
+    <item>
+      <title>tomberek</title>
+      <link>/repos/tomberek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/tomberek/</guid>
+      <description>Packages Name Attribute Description hello-2.12.1 nur.repos.tomberek.hello-join hello-2.12.1.chunked nur.repos.tomberek.hello-chunk lid.176.bin nur.repos.tomberek.fast-chunk-join lid.176.bin nur.repos.tomberek.fast-join lid.176.bin nur.repos.tomberek.fasttext-langid lid.176.bin.chunked nur.repos.tomberek.fast-chunk lid.176.bin.chunked nur.repos.tomberek.fasttext-langid-fetchurl-chunks </description>
+    </item>
+    
+    <item>
+      <title>uniquepointer</title>
+      <link>/repos/uniquepointer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/uniquepointer/</guid>
+      <description>Packages Name Attribute Description nyxt-dev-master nur.repos.uniquepointer.nyxt-dev Infinitely extensible web-browser (with Lisp development files using WebKitGTK platform port) python3.10-swallow-1.1.1 nur.repos.uniquepointer.i3-swallow Used to swallow a terminal window in i3 riscv64-linux-gnu-toolchain-31-10-2021 nur.repos.uniquepointer.riscv64-linux-gnu-toolchain GNU toolchain for RISC-V, including GCC. runescape-launcher nur.repos.uniquepointer.runescape-launcher RuneScape Game Client (NXT) runescape-launcher-2.2.9 nur.repos.uniquepointer.runescape-launcher-unwrapped RuneScape Game Client (NXT) wl-clipboard-master nur.repos.uniquepointer.wl-clipboard-master Command-line copy/paste utilities for Wayland. xmake-dev-2.5x nur.repos.uniquepointer.xmake-dev A cross-platform build utility based on Lua your-editor-1303 nur.repos.uniquepointer.your-editor Your-editor (yed) is a small and simple terminal editor core that is meant to be extended through a powerful plugin architecture zig-master-0.</description>
+    </item>
+    
+    <item>
+      <title>utybo</title>
+      <link>/repos/utybo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/utybo/</guid>
+      <description>Packages Name Attribute Description clion-2022.3 nur.repos.utybo.jetbrains.clion C/C++ IDE. New. Intelligent. Cross-platform datagrip-2022.3.1 nur.repos.utybo.jetbrains.datagrip Your Swiss Army Knife for Databases and SQL gateway-2022.3-Beta nur.repos.utybo.jetbrains.gateway Your single entry point to all remote development environments git-credential-manager-2.0.886 nur.repos.utybo.git-credential-manager Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services idea-community-2022.3.1 nur.repos.utybo.jetbrains.idea-community Integrated Development Environment (IDE) by Jetbrains, community edition idea-ultimate-2022.3.1 nur.repos.utybo.jetbrains.idea-ultimate Integrated Development Environment (IDE) by Jetbrains, requires paid license jetbrains-jdk-jcef-17.</description>
+    </item>
+    
+    <item>
+      <title>vanilla</title>
+      <link>/repos/vanilla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/vanilla/</guid>
+      <description>Packages Name Attribute Description fastfetch-1.8.2 nur.repos.vanilla.fastfetch Like neofetch, but much faster because written in C. freshfetch-0.1.2 nur.repos.vanilla.freshfetch A fresh take on neofetch. gnome-text-editor-41.1 nur.repos.vanilla.gnome-text-editor A simple text editor python3.9-arknights-mower-1.3.9 nur.repos.vanilla.arknights-mower 《明日方舟》长草助手 tdesktop-bin nur.repos.vanilla.tdesktop-bin Official Telegram Desktop, packaging by using GitHub binary and buildFHSUserEnv. Win10_LTSC_2019_fonts-LTSC_2019 nur.repos.vanilla.Win10_LTSC_2021_fonts Windows 10 LTSC 2021 fonts, extract from iso. </description>
+    </item>
+    
+    <item>
+      <title>vroad</title>
+      <link>/repos/vroad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/vroad/</guid>
+      <description>Packages Name Attribute Description qemu-host-cpu-only-6.2.0 nur.repos.vroad.qemu_kvm A generic and open source machine emulator and virtualizer </description>
+    </item>
+    
+    <item>
+      <title>vsoch</title>
+      <link>/repos/vsoch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/vsoch/</guid>
+      <description>Packages Name Attribute Description pipelib-0.0.15 nur.repos.vsoch.pipelib Pipelib is a library for creating pipelines. You can parse, compare, and order iterables. singularity-hpc-0.1.17 nur.repos.vsoch.singularity-hpc Local filesystem registry for containers (intended for HPC) using Lmod or Environment Modules. Works for users and admins. spython-0.3.0 nur.repos.vsoch.spython Singularity Python (spython) is the Python API for working with Singularity containers. </description>
+    </item>
+    
+    <item>
+      <title>wamserma</title>
+      <link>/repos/wamserma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/wamserma/</guid>
+      <description>Packages Name Attribute Description bandit-1.7.5 nur.repos.wamserma.bandit Security oriented static analyser for python code bundlewrap-4.15.0 nur.repos.wamserma.bundlewrap Easy, Concise and Decentralized Config management with Python dfrs-0.0.7 nur.repos.wamserma.dfrs Display file system space usage using graphs and colors dietlibc-0.34 nur.repos.wamserma.dietlibc a libc optimized for small size encpipe-0.5 nur.repos.wamserma.encpipe a simple, pipeable encryption tool without runtime deps encpipe-static-0.5 nur.repos.wamserma.encpipe-static a simple, pipeable encryption tool without runtime deps falsisign-git-6417c4 nur.repos.wamserma.falsisign a tool to read and modify the write lock flags on SD cards friidump-0.</description>
+    </item>
+    
+    <item>
+      <title>willpower3309</title>
+      <link>/repos/willpower3309/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/willpower3309/</guid>
+      <description>Packages Name Attribute Description ani-cli-v2.1 nur.repos.willpower3309.ani-cli A cli tool to browse and play anime hybridbar nur.repos.willpower3309.hybridbar swayblur-1.1.1 nur.repos.willpower3309.swayblur Script for sway to blur the wallpaper upon clients being present </description>
+    </item>
+    
+    <item>
+      <title>wolfangaukang</title>
+      <link>/repos/wolfangaukang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/wolfangaukang/</guid>
+      <description>Packages Name Attribute Description access-undenied-aws-0.1.5 nur.repos.wolfangaukang.access-undenied-aws Parses AWS AccessDenied CloudTrail events, explains the reasons for them, and offers actionable remediation steps device-flasher-1.0.6 nur.repos.wolfangaukang.device-flasher Tool that flashes CalyxOS on your device iptvnator-0.11.1 nur.repos.wolfangaukang.iptvnator Video player application that provides support for the playback of IPTV playlists ly-unstable-2022-07-24 nur.repos.wolfangaukang.ly TUI display manager mastopurge-1.2.0 nur.repos.wolfangaukang.mastopurge Purges Mastodon accounts. Removes posts. Makes things clean again. mouseless-0.1.3 nur.repos.wolfangaukang.mouseless Replacement for the physical mouse in Linux. Successor to xmouseless multifirefox-unstable-2016-05-10 nur.</description>
+    </item>
+    
+    <item>
+      <title>xddxdd</title>
+      <link>/repos/xddxdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/xddxdd/</guid>
+      <description>Packages Name Attribute Description 00000-howto nur.repos.xddxdd._meta.howto This NUR has a binary cache. Use the following settings to access it:nix.settings.substituters = [ &amp;ldquo;https://xddxdd.cachix.org&amp;rdquo; ];nix.settings.trusted-public-keys = [ &amp;ldquo;xddxdd.cachix.org-1:ay1HJyNDYmlSwj5NXQG065C8LfoqqKaTNCyzeixGjf8=&amp;rdquo; ];Or, use variables from this repository in case I change them:nix.settings.substituters = [ nur.repos.xddxdd._meta.url ];nix.settings.trusted-public-keys = [ nur.repos.xddxdd._meta.publicKey ]; asterisk-20.1.0 nur.repos.xddxdd.lantianCustomized.asterisk Asterisk with Lan Tian modifications asterisk-g72x-3855cec2ef2667f3e9224006dbaf179575752218 nur.repos.xddxdd.asterisk-g72x G.729 and G.723.1 codecs for Asterisk (Only G.729 is enabled) baidupcs-go-v3.9.0 nur.repos.xddxdd.baidupcs-go iikira/BaiduPCS-Go 原版基础上集成了分享链接/秒传链接转存功能 bilibili-1.9.1-3 nur.repos.xddxdd.bilibili Bilibili desktop client bird-babel-rtt-b0b12f37388e59b4456119d3a90d4ff69622d698 nur.</description>
+    </item>
+    
+    <item>
+      <title>xe</title>
+      <link>/repos/xe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/xe/</guid>
+      <description>Packages Name Attribute Description cabytcini-0.3.0 nur.repos.xe.cabytcini lo mi cabytcini cankyuijde comma nur.repos.xe.comma deno-bin-1.0.2 nur.repos.xe.deno A secure runtime for JavaScript and TypeScript girara-0.3.4 nur.repos.xe.girara User interface library gopls-git nur.repos.xe.gopls gruvbox-css nur.repos.xe.gruvbox-css hewwo-watest nur.repos.xe.hewwo ii-1.8 nur.repos.xe.ii Irc it, simple FIFO based irc client ix nur.repos.xe.ix command line pastebin johaus-1.1.0 nur.repos.xe.johaus jvozba-0.1.1 nur.repos.xe.jvozba lchat-git nur.repos.xe.lchat libutf-git nur.repos.xe.libutf luakit-git nur.repos.xe.luakit Fast, small, webkit based browser framework extensible in Lua microsoft-edge-dev-88.0.673.0 nur.repos.xe.microsoft-edge-dev Microsoft&amp;rsquo;s fork of Chromium web browser minica-1.</description>
+    </item>
+    
+    <item>
+      <title>xeals</title>
+      <link>/repos/xeals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/xeals/</guid>
+      <description>Packages Name Attribute Description alacritty-ligatures-0.7.2.20210209.g3ed0430 nur.repos.xeals.alacritty-ligatures Alacritty with ligature patch applied amdgpu-fan-0.0.6 nur.repos.xeals.amdgpu-fan Fan controller for AMD graphics cards running the amdgpu driver on Linux atlauncher-3.4.20.2 nur.repos.xeals.atlauncher Minecraft launcher cardboard-20210120.g7b15613 nur.repos.xeals.cardboard Scrollable tiling Wayland compositor designed with laptops in mind go-qt-20200904.gc0c124a nur.repos.xeals.goModules.qt Qt bindings for Go libhl-3.1 nur.repos.xeals.libhl Simple and fast C library implementing a thread-safe API to manage hash-tables, linked lists, lock-free ring buffers and queues mopidy-subidy-1.0.0 nur.repos.xeals.mopidy-subidy Mopidy extension for playing music from Subsonic servers pam-gnupg-0.</description>
+    </item>
+    
+    <item>
+      <title>xfix</title>
+      <link>/repos/xfix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/xfix/</guid>
+      <description>Packages Name Attribute Description asar-1.81 nur.repos.xfix.asar SNES assembler </description>
+    </item>
+    
+    <item>
+      <title>xyenon</title>
+      <link>/repos/xyenon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/xyenon/</guid>
+      <description>Packages Name Attribute Description catp-0.2.0 nur.repos.xyenon.catp Print the output of a running process github-copilot-cli-0.1.21 nur.repos.xyenon.github-copilot-cli A CLI experience for letting GitHub Copilot help you on the command line go-check-2023.01.05-1 nur.repos.xyenon.go-check Check for outdated go module lux-0.17.0 nur.repos.xyenon.lux Fast and simple video download library and CLI tool written in Go </description>
+    </item>
+    
+    <item>
+      <title>yellowonion</title>
+      <link>/repos/yellowonion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/yellowonion/</guid>
+      <description>Packages Name Attribute Description bcachefs-tools-f1f8882-git nur.repos.yellowonion.bcachefs-tools Tool for managing bcachefs filesystems nixos-23.05pre466479.19cf008bb18-x86_64-linux.iso nur.repos.yellowonion.bcachefs-iso </description>
+    </item>
+    
+    <item>
+      <title>yes</title>
+      <link>/repos/yes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/yes/</guid>
+      <description>Packages Name Attribute Description archlinux-keyring-20230320 nur.repos.yes.archlinux.archlinux-keyring Arch Linux PGP keyring aria2b-1.0.7 nur.repos.yes.nodePackages.aria2b aria2 自动 ban 掉迅雷等不受欢迎客户端的脚本（仅限 Linux） asp-8 nur.repos.yes.archlinux.asp Arch Linux build source file management tool devtools-20230307 nur.repos.yes.archlinux.devtools [Experimental] Tools for Arch Linux package maintainers lx-music-desktop-2.1.2 nur.repos.yes.lx-music-desktop A music application based on electron magireco-cn-local-server-1.6.8 nur.repos.yes.nodePackages.magireco-cn-local-server Magia Record CN Local Server paru-1.11.2 nur.repos.yes.archlinux.paru Feature packed AUR helper paru-unwrapped-1.11.2 nur.repos.yes.archlinux.paru-unwrapped Feature packed AUR helper (without runtime depends wrapped) qq-3.1.0-9572 nur.repos.yes.qq-appimage Tencent QQ (upstream AppImage wrapped in FHS) shadowsocks-ws-8.</description>
+    </item>
+    
+    <item>
+      <title>YisuiMilena</title>
+      <link>/repos/yisuimilena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/yisuimilena/</guid>
+      <description>Packages Name Attribute Description ciel-3.1.3 nur.repos.YisuiMilena.ciel A tool for controlling multi-layer file systems and containers. devtools-riscv64-20220621 nur.repos.YisuiMilena.devtools-riscv64 [Experimental] Tools for Arch Linux package maintainers RISC-V hmcl-bin nur.repos.YisuiMilena.hmcl-bin python3.10-HyFetch-1.4.0 nur.repos.YisuiMilena.hyfetch neofetch with pride flags &amp;lt;3 </description>
+    </item>
+    
+    <item>
+      <title>zachcoyle</title>
+      <link>/repos/zachcoyle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/zachcoyle/</guid>
+      <description>Packages Name Attribute Description kotlin-language-server-1.1.1 nur.repos.zachcoyle.kotlin-language-server Intelligent Kotlin support for any editor/IDE using the Language Server Protocol xcodeproj-1.19.0 nur.repos.zachcoyle.xcodeproj </description>
+    </item>
+    
+    <item>
+      <title>zeratax</title>
+      <link>/repos/zeratax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/zeratax/</guid>
+      <description>Packages Name Attribute Description discordsrv-1.24.0 nur.repos.zeratax.bukkitPlugins.discordsrv Discord bridging plugin for block game. dmnd-bot-0.2.3 nur.repos.zeratax.dmnd-bot dynmap-3.2.1 nur.repos.zeratax.bukkitPlugins.dynmap A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations. harbor-1.6.4-b1 nur.repos.zeratax.bukkitPlugins.harbor Harbor is a plugin that redefines sleep within your Spigot server! mirage-0.7.1 nur.repos.zeratax.mirage-im A fancy, customizable, keyboard-operable Qt/QML+Python Matrix chat client for encrypted and decentralized communication. python3.10-aiohttp-socks-0.6.0 nur.repos.zeratax.myPython3Packages.aiohttp-socks SOCKS proxy connector for aiohttp python3.10-baron-0.9 nur.</description>
+    </item>
+    
+    <item>
+      <title>zsien</title>
+      <link>/repos/zsien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/repos/zsien/</guid>
+      <description>Packages Name Attribute Description udp-over-tcp-unstable-2022-03-08 nur.repos.zsien.udp-over-tcp A library (and binaries) for tunneling UDP datagrams over a TCP stream. udp2raw-20200818.0 nur.repos.zsien.udp2raw udptunnel-1.1 nur.repos.zsien.udptunnel tunnel UDP packets over a TCP connection </description>
+    </item>
+    
+  </channel>
+</rss>

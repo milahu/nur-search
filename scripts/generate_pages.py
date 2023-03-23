@@ -6,8 +6,12 @@ import shutil
 from pathlib import Path
 from typing import Any, DefaultDict, Dict, List
 import requests
+import logging
 
 ROOT = Path(__file__).parent.parent.resolve()
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 
 class Package:
@@ -87,6 +91,8 @@ alwaysopen = true
 
 def main() -> None:
 
+    logger.info("generating pages ...")
+
     download_readme()
 
     with open(ROOT.joinpath("data", "packages.json")) as f:
@@ -109,6 +115,9 @@ def main() -> None:
         stats_path = ROOT.joinpath("data", "stats.json")
         with open(stats_path, "w+") as f:
             f.write(json.dumps(stats_dict))
+
+    logger.info("generating pages done")
+
 
 if __name__ == "__main__":
     main()

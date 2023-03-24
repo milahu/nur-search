@@ -2116,6 +2116,15 @@
                 {
                     "deprecated": false,
                     "free": true,
+                    "fullName": "GNU General Public License v2.0 only",
+                    "redistributable": true,
+                    "shortName": "gpl2Only",
+                    "spdxId": "GPL-2.0-only",
+                    "url": "https://spdx.org/licenses/GPL-2.0-only.html"
+                },
+                {
+                    "deprecated": false,
+                    "free": true,
                     "fullName": "BSD 3-clause \"New\" or \"Revised\" License",
                     "redistributable": true,
                     "shortName": "bsd3",
@@ -2137,7 +2146,7 @@
             "outputsToInstall": [
                 "out"
             ],
-            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/tools/compression/turbobench/turbobench.nix#L47",
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/tools/compression/turbobench/turbobench.nix#L42",
             "unfree": false,
             "unsupported": false
         },

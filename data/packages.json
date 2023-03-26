@@ -1104,6 +1104,54 @@
         "_attr": "jaq",
         "_repo": "milahu"
     },
+    "nur.repos.milahu.kindle_1_14_1": {
+        "name": "kindle-1.14.43029",
+        "pname": "kindle",
+        "version": "1.14.43029",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": false,
+            "broken": false,
+            "description": "Amazon ebook reader",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": false,
+                "fullName": "Unfree",
+                "redistributable": false,
+                "shortName": "unfree"
+            },
+            "name": "kindle-1.14.43029",
+            "outputsToInstall": [
+                "out"
+            ],
+            "platforms": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/misc/kindle/kindle.nix#L61",
+            "unfree": true,
+            "unsupported": false
+        },
+        "_attr": "kindle_1_14_1",
+        "_repo": "milahu"
+    },
     "nur.repos.milahu.kindle_1_15_0": {
         "name": "kindle-1.15.43061",
         "pname": "kindle",
@@ -1150,6 +1198,54 @@
             "unsupported": false
         },
         "_attr": "kindle_1_15_0",
+        "_repo": "milahu"
+    },
+    "nur.repos.milahu.kindle_1_16_0": {
+        "name": "kindle-1.16.44025",
+        "pname": "kindle",
+        "version": "1.16.44025",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": false,
+            "broken": false,
+            "description": "Amazon ebook reader",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": false,
+                "fullName": "Unfree",
+                "redistributable": false,
+                "shortName": "unfree"
+            },
+            "name": "kindle-1.16.44025",
+            "outputsToInstall": [
+                "out"
+            ],
+            "platforms": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/misc/kindle/kindle.nix#L61",
+            "unfree": true,
+            "unsupported": false
+        },
+        "_attr": "kindle_1_16_0",
         "_repo": "milahu"
     },
     "nur.repos.milahu.kindle_1_17_0": {
@@ -1200,7 +1296,7 @@
         "_attr": "kindle_1_17_0",
         "_repo": "milahu"
     },
-    "nur.repos.milahu.kindle": {
+    "nur.repos.milahu.kindle_1_17_1": {
         "name": "kindle-1.17.44183",
         "pname": "kindle",
         "version": "1.17.44183",
@@ -1245,7 +1341,55 @@
             "unfree": true,
             "unsupported": false
         },
-        "_attr": "kindle",
+        "_attr": "kindle_1_17_1",
+        "_repo": "milahu"
+    },
+    "nur.repos.milahu.kindle_1_20_1": {
+        "name": "kindle-1.20.47037",
+        "pname": "kindle",
+        "version": "1.20.47037",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": false,
+            "broken": false,
+            "description": "Amazon ebook reader",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": false,
+                "fullName": "Unfree",
+                "redistributable": false,
+                "shortName": "unfree"
+            },
+            "name": "kindle-1.20.47037",
+            "outputsToInstall": [
+                "out"
+            ],
+            "platforms": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/misc/kindle/kindle.nix#L61",
+            "unfree": true,
+            "unsupported": false
+        },
+        "_attr": "kindle_1_20_1",
         "_repo": "milahu"
     },
     "nur.repos.milahu.kindle_1_21_0": {
@@ -1294,6 +1438,198 @@
             "unsupported": false
         },
         "_attr": "kindle_1_21_0",
+        "_repo": "milahu"
+    },
+    "nur.repos.milahu.kindle": {
+        "name": "kindle-1.23.50133",
+        "pname": "kindle",
+        "version": "1.23.50133",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": false,
+            "broken": false,
+            "description": "Amazon ebook reader",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": false,
+                "fullName": "Unfree",
+                "redistributable": false,
+                "shortName": "unfree"
+            },
+            "name": "kindle-1.23.50133",
+            "outputsToInstall": [
+                "out"
+            ],
+            "platforms": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/misc/kindle/kindle.nix#L61",
+            "unfree": true,
+            "unsupported": false
+        },
+        "_attr": "kindle",
+        "_repo": "milahu"
+    },
+    "nur.repos.milahu.kindle_1_24_3": {
+        "name": "kindle-1.24.51068",
+        "pname": "kindle",
+        "version": "1.24.51068",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": false,
+            "broken": false,
+            "description": "Amazon ebook reader",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": false,
+                "fullName": "Unfree",
+                "redistributable": false,
+                "shortName": "unfree"
+            },
+            "name": "kindle-1.24.51068",
+            "outputsToInstall": [
+                "out"
+            ],
+            "platforms": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/misc/kindle/kindle.nix#L61",
+            "unfree": true,
+            "unsupported": false
+        },
+        "_attr": "kindle_1_24_3",
+        "_repo": "milahu"
+    },
+    "nur.repos.milahu.kindle_1_25_1": {
+        "name": "kindle-1.25.52064",
+        "pname": "kindle",
+        "version": "1.25.52064",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": false,
+            "broken": false,
+            "description": "Amazon ebook reader",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": false,
+                "fullName": "Unfree",
+                "redistributable": false,
+                "shortName": "unfree"
+            },
+            "name": "kindle-1.25.52064",
+            "outputsToInstall": [
+                "out"
+            ],
+            "platforms": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/misc/kindle/kindle.nix#L61",
+            "unfree": true,
+            "unsupported": false
+        },
+        "_attr": "kindle_1_25_1",
+        "_repo": "milahu"
+    },
+    "nur.repos.milahu.kindle_1_26_0": {
+        "name": "kindle-1.26.55076",
+        "pname": "kindle",
+        "version": "1.26.55076",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": false,
+            "broken": false,
+            "description": "Amazon ebook reader",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": false,
+                "fullName": "Unfree",
+                "redistributable": false,
+                "shortName": "unfree"
+            },
+            "name": "kindle-1.26.55076",
+            "outputsToInstall": [
+                "out"
+            ],
+            "platforms": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/misc/kindle/kindle.nix#L61",
+            "unfree": true,
+            "unsupported": false
+        },
+        "_attr": "kindle_1_26_0",
         "_repo": "milahu"
     },
     "nur.repos.milahu.kindle_1_28_0": {

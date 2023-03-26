@@ -1113,6 +1113,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1161,6 +1162,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1209,6 +1211,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1257,6 +1260,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1305,6 +1309,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1353,6 +1358,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1401,6 +1407,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1449,6 +1456,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1497,6 +1505,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1545,6 +1554,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1593,6 +1603,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1641,6 +1652,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1689,6 +1701,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1737,6 +1750,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1785,6 +1799,7 @@
             "available": false,
             "broken": false,
             "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
             "insecure": false,
             "license": {
                 "deprecated": false,
@@ -1822,6 +1837,153 @@
             "unsupported": false
         },
         "_attr": "kindle_1_39_1",
+        "_repo": "milahu"
+    },
+    "nur.repos.milahu.kindle_1_39_2": {
+        "name": "kindle-1.39.65383",
+        "pname": "kindle",
+        "version": "1.39.65383",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": false,
+            "broken": false,
+            "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": false,
+                "fullName": "Unfree",
+                "redistributable": false,
+                "shortName": "unfree"
+            },
+            "name": "kindle-1.39.65383",
+            "outputsToInstall": [
+                "out"
+            ],
+            "platforms": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/misc/kindle/kindle.nix#L61",
+            "unfree": true,
+            "unsupported": false
+        },
+        "_attr": "kindle_1_39_2",
+        "_repo": "milahu"
+    },
+    "nur.repos.milahu.kindle_1_40_0": {
+        "name": "kindle-1.40.65415",
+        "pname": "kindle",
+        "version": "1.40.65415",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": false,
+            "broken": false,
+            "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": false,
+                "fullName": "Unfree",
+                "redistributable": false,
+                "shortName": "unfree"
+            },
+            "name": "kindle-1.40.65415",
+            "outputsToInstall": [
+                "out"
+            ],
+            "platforms": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/misc/kindle/kindle.nix#L61",
+            "unfree": true,
+            "unsupported": false
+        },
+        "_attr": "kindle_1_40_0",
+        "_repo": "milahu"
+    },
+    "nur.repos.milahu.kindle_1_40_1": {
+        "name": "kindle-1.40.65535",
+        "pname": "kindle",
+        "version": "1.40.65535",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": false,
+            "broken": false,
+            "description": "Amazon ebook reader",
+            "homepage": "https://www.amazon.com/b?node=16571048011",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": false,
+                "fullName": "Unfree",
+                "redistributable": false,
+                "shortName": "unfree"
+            },
+            "name": "kindle-1.40.65535",
+            "outputsToInstall": [
+                "out"
+            ],
+            "platforms": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/misc/kindle/kindle.nix#L61",
+            "unfree": true,
+            "unsupported": false
+        },
+        "_attr": "kindle_1_40_1",
         "_repo": "milahu"
     },
     "nur.repos.milahu.libalf": {

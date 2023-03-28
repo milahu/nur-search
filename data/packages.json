@@ -2008,6 +2008,36 @@
         "_attr": "libalf",
         "_repo": "milahu"
     },
+    "nur.repos.milahu.lzturbo": {
+        "name": "lzturbo-1.2",
+        "pname": "lzturbo",
+        "version": "1.2",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": false,
+            "broken": false,
+            "description": "high-performance file compressor",
+            "homepage": "https://sites.google.com/site/powturbo",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": false,
+                "fullName": "Unfree",
+                "redistributable": false,
+                "shortName": "unfree"
+            },
+            "maintainers": [],
+            "name": "lzturbo-1.2",
+            "outputsToInstall": [
+                "out"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/tools/compression/lzturbo/lzturbo.nix#L21",
+            "unfree": true,
+            "unsupported": false
+        },
+        "_attr": "lzturbo",
+        "_repo": "milahu"
+    },
     "nur.repos.milahu.proftpd": {
         "name": "proftpd-1.3.8rc3",
         "pname": "proftpd",
@@ -3028,7 +3058,7 @@
             "outputsToInstall": [
                 "out"
             ],
-            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/tools/compression/turbobench/turbobench.nix#L42",
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/tools/compression/turbobench/turbobench.nix#L153",
             "unfree": false,
             "unsupported": false
         },

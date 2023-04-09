@@ -924,7 +924,7 @@
                 "x86_64-darwin",
                 "aarch64-darwin"
             ],
-            "position": "https://github.com/milahu/nur-packages/blob/HEAD/pkgs/development/web/deno/default.nix#L93",
+            "position": "https://github.com/milahu/nur-packages/blob/HEAD/pkgs/development/web/deno/default.nix#L103",
             "unfree": false,
             "unsupported": false
         },

@@ -883,6 +883,38 @@
         "_attr": "caramel",
         "_repo": "milahu"
     },
+    "nur.repos.milahu.cmix": {
+        "name": "cmix-19.1",
+        "pname": "cmix",
+        "version": "19.1",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": true,
+            "broken": false,
+            "description": "file compressor",
+            "homepage": "https://github.com/byronknoll/cmix",
+            "insecure": false,
+            "license": {
+                "deprecated": false,
+                "free": true,
+                "fullName": "GNU General Public License v3.0 only",
+                "redistributable": true,
+                "shortName": "gpl3Only",
+                "spdxId": "GPL-3.0-only",
+                "url": "https://spdx.org/licenses/GPL-3.0-only.html"
+            },
+            "maintainers": [],
+            "name": "cmix-19.1",
+            "outputsToInstall": [
+                "out"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/tools/compression/cmix/cmix.nix#L31",
+            "unfree": false,
+            "unsupported": false
+        },
+        "_attr": "cmix",
+        "_repo": "milahu"
+    },
     "nur.repos.milahu.deno": {
         "name": "deno-1.31.1",
         "pname": "deno",
@@ -929,6 +961,86 @@
             "unsupported": false
         },
         "_attr": "deno",
+        "_repo": "milahu"
+    },
+    "nur.repos.milahu.ffsubsync": {
+        "name": "ffsubsync-0.4.22",
+        "pname": "ffsubsync",
+        "version": "0.4.22",
+        "system": "x86_64-linux",
+        "meta": {
+            "available": true,
+            "broken": false,
+            "description": "Automagically synchronize subtitles with video",
+            "homepage": "https://github.com/smacke/ffsubsync",
+            "insecure": false,
+            "isBuildPythonPackage": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux",
+                "x86_64-darwin",
+                "i686-darwin",
+                "aarch64-darwin",
+                "armv7a-darwin"
+            ],
+            "license": {
+                "deprecated": false,
+                "free": true,
+                "fullName": "MIT License",
+                "redistributable": true,
+                "shortName": "mit",
+                "spdxId": "MIT",
+                "url": "https://spdx.org/licenses/MIT.html"
+            },
+            "maintainers": [],
+            "name": "ffsubsync-0.4.22",
+            "outputsToInstall": [
+                "out"
+            ],
+            "platforms": [
+                "aarch64-linux",
+                "armv5tel-linux",
+                "armv6l-linux",
+                "armv7a-linux",
+                "armv7l-linux",
+                "i686-linux",
+                "m68k-linux",
+                "microblaze-linux",
+                "microblazeel-linux",
+                "mipsel-linux",
+                "mips64el-linux",
+                "powerpc64-linux",
+                "powerpc64le-linux",
+                "riscv32-linux",
+                "riscv64-linux",
+                "s390-linux",
+                "s390x-linux",
+                "x86_64-linux",
+                "x86_64-darwin",
+                "i686-darwin",
+                "aarch64-darwin",
+                "armv7a-darwin"
+            ],
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/video/ffsubsync/ffsubsync.nix#L56",
+            "unfree": false,
+            "unsupported": false
+        },
+        "_attr": "ffsubsync",
         "_repo": "milahu"
     },
     "nur.repos.milahu.flutter-engine": {
@@ -2038,16 +2150,16 @@
         "_attr": "lzturbo",
         "_repo": "milahu"
     },
-    "nur.repos.milahu.netgeartelnetenable-by-pgebheim": {
-        "name": "netgeartelnetenable-by-pgebheim-unstable-2023-03-29",
-        "pname": "netgeartelnetenable-by-pgebheim-unstable",
+    "nur.repos.milahu.netgear-telnetenable": {
+        "name": "netgear-telnetenable-unstable-2023-03-29",
+        "pname": "netgear-telnetenable-unstable",
         "version": "2023-03-29",
         "system": "x86_64-linux",
         "meta": {
             "available": true,
             "broken": false,
             "description": "Telenet Enable for Netgear routers",
-            "homepage": "https://github.com/milahu/netgear-telenetenable",
+            "homepage": "https://github.com/insanid/netgear-telenetenable",
             "insecure": false,
             "isBuildPythonPackage": [
                 "aarch64-linux",
@@ -2083,7 +2195,7 @@
                 "url": "https://spdx.org/licenses/MIT.html"
             },
             "maintainers": [],
-            "name": "netgeartelnetenable-by-pgebheim-unstable-2023-03-29",
+            "name": "netgear-telnetenable-unstable-2023-03-29",
             "outputsToInstall": [
                 "out"
             ],
@@ -2111,43 +2223,11 @@
                 "aarch64-darwin",
                 "armv7a-darwin"
             ],
-            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/tools/networking/netgeartelnetenable/netgeartelnetenable-by-pgebheim.nix#L24",
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/tools/networking/netgear-telnetenable/netgear-telnetenable.nix#L25",
             "unfree": false,
             "unsupported": false
         },
-        "_attr": "netgeartelnetenable-by-pgebheim",
-        "_repo": "milahu"
-    },
-    "nur.repos.milahu.netgeartelnetenable-by-yoshac": {
-        "name": "netgeartelnetenable-by-yoshac-0.4",
-        "pname": "netgeartelnetenable-by-yoshac",
-        "version": "0.4",
-        "system": "x86_64-linux",
-        "meta": {
-            "available": true,
-            "broken": false,
-            "description": "Enables telnet access on certain Netgear devices",
-            "homepage": "https://github.com/insanid/NetgearTelnetEnable",
-            "insecure": false,
-            "license": {
-                "deprecated": false,
-                "free": true,
-                "fullName": "GNU General Public License v2.0 or later",
-                "redistributable": true,
-                "shortName": "gpl2Plus",
-                "spdxId": "GPL-2.0-or-later",
-                "url": "https://spdx.org/licenses/GPL-2.0-or-later.html"
-            },
-            "maintainers": [],
-            "name": "netgeartelnetenable-by-yoshac-0.4",
-            "outputsToInstall": [
-                "out"
-            ],
-            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/tools/networking/netgeartelnetenable/netgeartelnetenable-by-yoshac.nix#L23",
-            "unfree": false,
-            "unsupported": false
-        },
-        "_attr": "netgeartelnetenable-by-yoshac",
+        "_attr": "netgear-telnetenable",
         "_repo": "milahu"
     },
     "nur.repos.milahu.proftpd": {
@@ -3008,7 +3088,7 @@
                 "x86_64-windows",
                 "i686-windows"
             ],
-            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/video/subdl/subdl.nix#L19",
+            "position": "https://github.com/milahu/nur-combined/tree/master/repos/milahu/pkgs/applications/video/subdl/subdl.nix#L25",
             "unfree": false,
             "unsupported": false
         },

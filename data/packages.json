@@ -2389,14 +2389,14 @@
         "_repo": "milahu"
     },
     "nur.repos.milahu.python3": {
-        "name": "python3-3.10.10",
+        "name": "python3-3.10.11",
         "pname": "python3",
-        "version": "3.10.10",
+        "version": "3.10.11",
         "system": "x86_64-linux",
         "meta": {
             "available": true,
             "broken": false,
-            "changelog": "https://docs.python.org/release/3.10.10/whatsnew/changelog.html",
+            "changelog": "https://docs.python.org/release/3.10.11/whatsnew/changelog.html",
             "description": "A high-level dynamically-typed programming language",
             "homepage": "https://www.python.org",
             "insecure": false,
@@ -2418,7 +2418,7 @@
                     "name": "Frederik Rietdijk"
                 }
             ],
-            "name": "python3-3.10.10",
+            "name": "python3-3.10.11",
             "outputsToInstall": [
                 "out"
             ],

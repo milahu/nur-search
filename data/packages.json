@@ -926,14 +926,14 @@
         "_repo": "milahu"
     },
     "nur.repos.milahu.deno": {
-        "name": "deno-1.32.5",
+        "name": "deno-1.33.1",
         "pname": "deno",
-        "version": "1.32.5",
+        "version": "1.33.1",
         "system": "x86_64-linux",
         "meta": {
             "available": true,
             "broken": false,
-            "changelog": "https://github.com/denoland/deno/releases/tag/v1.32.5",
+            "changelog": "https://github.com/denoland/deno/releases/tag/v1.33.1",
             "description": "A secure runtime for JavaScript and TypeScript",
             "homepage": "https://deno.land/",
             "insecure": false,
@@ -956,7 +956,7 @@
                     "name": "Jack"
                 }
             ],
-            "name": "deno-1.32.5",
+            "name": "deno-1.33.1",
             "outputsToInstall": [
                 "out"
             ],

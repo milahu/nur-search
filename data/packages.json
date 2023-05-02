@@ -2483,7 +2483,7 @@
                 "aarch64-darwin",
                 "armv7a-darwin"
             ],
-            "position": "https://github.com/milahu/nur-packages/blob/HEAD/pkgs/development/interpreters/python/cpython/default.nix#L527",
+            "position": "https://github.com/milahu/nur-packages/blob/HEAD/pkgs/development/interpreters/python/cpython/default.nix#L530",
             "unfree": false,
             "unsupported": false
         },
